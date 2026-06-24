@@ -1,0 +1,640 @@
+[
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Thìn Lò Đúc",
+    "address": "13 Lò Đúc, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở sốt vang",
+      "Quẩy nóng"
+    ],
+    "rating": 4.5,
+    "latitude": 21.0170351,
+    "longitude": 105.8559963
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Thìn Bờ Hồ",
+    "address": "61 Đinh Tiên Hoàng, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở gà",
+      "Quẩy nóng"
+    ],
+    "rating": 4.1,
+    "latitude": 21.029542,
+    "longitude": 105.8538468
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở 10 Lý Quốc Sư",
+    "address": "10 Lý Quốc Sư, Hàng Trống, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở gà",
+      "Phở sốt vang",
+      "Quẩy nóng"
+    ],
+    "rating": 4.5,
+    "latitude": 21.0304724,
+    "longitude": 105.8488474
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Gà Nguyệt",
+    "address": "5B Phủ Doãn, Hàng Trống, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở gà",
+      "Quẩy nóng"
+    ],
+    "rating": 4.6,
+    "latitude": 21.0302913,
+    "longitude": 105.8476483
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Sướng",
+    "address": "24B Trung Yên, Đinh Liệt, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở gà",
+      "Phở sốt vang",
+      "Quẩy nóng"
+    ],
+    "rating": 4.5,
+    "latitude": 21.0335516,
+    "longitude": 105.8521428
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Bát Đàn",
+    "address": "49 Bát Đàn, Cửa Đông, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở gà",
+      "Quẩy nóng"
+    ],
+    "rating": 4.0,
+    "latitude": 21.0336762,
+    "longitude": 105.8464593
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Gia Truyền Hàng Đồng",
+    "address": "49 Hàng Đồng, Đồng Xuân, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở gà",
+      "Phở sốt vang",
+      "Quẩy nóng"
+    ],
+    "rating": 4.1,
+    "latitude": 21.0323736,
+    "longitude": 105.8488533
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Sắn Lương Ngọc Quyến",
+    "address": "1 Lương Ngọc Quyến, Hàng Buồm, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Phở bò",
+      "Phở gà",
+      "Phở sốt vang",
+      "Bún bò Nam Bộ",
+      "Quẩy nóng"
+    ],
+    "rating": 4.9,
+    "latitude": 21.0348532,
+    "longitude": 105.8544878
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Chả Hương Liên",
+    "address": "24 Lê Văn Hưu, Phan Chu Trinh, Hai Bà Trưng, Hà Nội",
+    "menu": [
+      "Bún chả",
+      "Nem rán (Chả giò)",
+      "Nem chua rán"
+    ],
+    "rating": 4.7,
+    "latitude": 21.0359942,
+    "longitude": 105.851812
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Chả Đắc Kim",
+    "address": "1 Hàng Mành, Hàng Gai, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún chả",
+      "Nem rán (Chả giò)",
+      "Nem chua rán",
+      "Nem chua nướng"
+    ],
+    "rating": 4.1,
+    "latitude": 21.0323248,
+    "longitude": 105.8480701
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Chả Cá Lã Vọng",
+    "address": "14 Chả Cá, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Chả cá Lã Vọng",
+      "Bún chả",
+      "Quẩy nóng"
+    ],
+    "rating": 4.7,
+    "latitude": 21.0356844,
+    "longitude": 105.8491519
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Chả Cá Thăng Long",
+    "address": "6B Đường Thành, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Chả cá Lã Vọng",
+      "Quẩy nóng"
+    ],
+    "rating": 4.9,
+    "latitude": 21.032965,
+    "longitude": 105.8461226
+  },
+  {
+    "place type": "cafe",
+    "restaurant_name": "Café Giảng",
+    "address": "39 Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Cà phê trứng",
+      "Trà chanh",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.3,
+    "latitude": 21.033606,
+    "longitude": 105.8546223
+  },
+  {
+    "place type": "cafe",
+    "restaurant_name": "Cộng Cà Phê",
+    "address": "27 Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Cà phê cốt dừa",
+      "Cà phê trứng",
+      "Trà chanh",
+      "Nước sấu đá"
+    ],
+    "rating": 4.1,
+    "latitude": 21.0104687,
+    "longitude": 105.8499644
+  },
+  {
+    "place type": "cafe",
+    "restaurant_name": "Cà Phê Lâm",
+    "address": "60 Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Cà phê trứng",
+      "Trà đá vỉa hè",
+      "Nước sấu đá"
+    ],
+    "rating": 4.5,
+    "latitude": 21.032182,
+    "longitude": 105.8544986
+  },
+  {
+    "place type": "dessert",
+    "restaurant_name": "Kem Tràng Tiền",
+    "address": "35 Tràng Tiền, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Kem Tràng Tiền",
+      "Sữa chua dẻo",
+      "Tào phớ hoa nhài"
+    ],
+    "rating": 4.5,
+    "latitude": 21.0789199,
+    "longitude": 105.774508
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bánh Cuốn Bà Hoành",
+    "address": "33 Tô Hiến Thành, Hai Bà Trưng, Hà Nội",
+    "menu": [
+      "Bánh cuốn Thanh Trì",
+      "Nem rán (Chả giò)",
+      "Giò chả Ước Lễ"
+    ],
+    "rating": 4.7,
+    "latitude": 21.0135428,
+    "longitude": 105.8495643
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bánh Cuốn Gia Truyền Thanh Vân",
+    "address": "14 Hàng Gà, Hàng Bồ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bánh cuốn Thanh Trì",
+      "Giò chả Ước Lễ",
+      "Nem rán (Chả giò)"
+    ],
+    "rating": 4.9,
+    "latitude": 21.0153054,
+    "longitude": 105.8498107
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Miến Lươn Đông Thịnh",
+    "address": "87 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Miến lươn nước",
+      "Miến gà",
+      "Quẩy nóng"
+    ],
+    "rating": 4.2,
+    "latitude": 21.0318532,
+    "longitude": 105.8469051
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Cuốn 31 Ngũ Xã",
+    "address": "31 Ngũ Xã, Trúc Bạch, Ba Đình, Hà Nội",
+    "menu": [
+      "Phở cuốn",
+      "Phở chiên phồng",
+      "Nộm bò khô"
+    ],
+    "rating": 4.2,
+    "latitude": 21.0461468,
+    "longitude": 105.8409069
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Phở Cuốn Hương Mai",
+    "address": "27 Ngũ Xã, Trúc Bạch, Ba Đình, Hà Nội",
+    "menu": [
+      "Phở cuốn",
+      "Phở chiên phồng",
+      "Nộm bò khô",
+      "Bò nướng chảo gang"
+    ],
+    "rating": 4.6,
+    "latitude": 21.0058298,
+    "longitude": 105.754922
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Xôi Yến",
+    "address": "35B Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Xôi xéo",
+      "Xôi khúc",
+      "Xôi thịt kho trứng",
+      "Giò chả Ước Lễ"
+    ],
+    "rating": 4.2,
+    "latitude": 21.0201181,
+    "longitude": 105.8545733
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Xôi Xéo Lý Thường Kiệt",
+    "address": "35 Lý Thường Kiệt, Hàng Bài, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Xôi xéo",
+      "Xôi khúc",
+      "Xôi thịt kho trứng"
+    ],
+    "rating": 4.8,
+    "latitude": 20.9630163,
+    "longitude": 105.7665612
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Đậu Mắm Tôm Cô Lan",
+    "address": "Ngõ 31 Hàng Khay, Tràng Tiền, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún đậu mắm tôm",
+      "Nem rán (Chả giò)",
+      "Giò chả Ước Lễ",
+      "Lòng rán",
+      "Dồi sụn nướng"
+    ],
+    "rating": 4.8,
+    "latitude": 21.0283334,
+    "longitude": 105.854041
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Đậu Mắm Tôm Cổ Vũ",
+    "address": "2 Cổ Vũ, Hàng Gai, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún đậu mắm tôm",
+      "Nem rán (Chả giò)",
+      "Lòng rán",
+      "Dồi sụn nướng",
+      "Giò chả Ước Lễ"
+    ],
+    "rating": 4.0,
+    "latitude": 21.0283334,
+    "longitude": 105.854041
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bánh Mì Dân Tổ",
+    "address": "32 Trần Nhật Duật, Đồng Xuân, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bánh mì dân tổ",
+      "Giò chả Ước Lễ"
+    ],
+    "rating": 4.3,
+    "latitude": 21.0072846,
+    "longitude": 105.8333542
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bánh Mì 25",
+    "address": "25 Hàng Cá, Hàng Đào, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bánh mì",
+      "Bánh mì dân tổ",
+      "Giò chả Ước Lễ",
+      "Cà phê trứng"
+    ],
+    "rating": 4.4,
+    "latitude": 21.0360802,
+    "longitude": 105.8486929
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Bò Nam Bộ Ngô Sĩ Liên",
+    "address": "67 Ngô Sĩ Liên, Văn Miếu, Đống Đa, Hà Nội",
+    "menu": [
+      "Bún bò Nam Bộ",
+      "Nộm bò khô",
+      "Nem rán (Chả giò)"
+    ],
+    "rating": 4.6,
+    "latitude": 21.0252415,
+    "longitude": 105.8381885
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Cháo Sườn Bà Liên",
+    "address": "Ngõ 45 Hàng Bồ, Hàng Bồ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Cháo sườn sụn",
+      "Giò chả Ước Lễ",
+      "Quẩy nóng"
+    ],
+    "rating": 4.9,
+    "latitude": 21.020638,
+    "longitude": 105.849356
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Cháo Hàng Hành",
+    "address": "3 Hàng Hành, Hàng Trống, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Cháo sườn sụn",
+      "Quẩy nóng",
+      "Giò chả Ước Lễ"
+    ],
+    "rating": 4.2,
+    "latitude": 21.0315201,
+    "longitude": 105.8504742
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Nem Cua Bể Thanh Vân",
+    "address": "18 Đinh Liệt, Hàng Bạc, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Nem rán (Chả giò)",
+      "Nem chua rán",
+      "Nem chua nướng",
+      "Bún chả"
+    ],
+    "rating": 4.2,
+    "latitude": 21.0148792,
+    "longitude": 105.8508802
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Thang Bà Đức",
+    "address": "48 Cầu Gỗ, Hàng Bạc, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún thang",
+      "Giò chả Ước Lễ",
+      "Quẩy nóng"
+    ],
+    "rating": 4.6,
+    "latitude": 21.0322483,
+    "longitude": 105.8524244
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Ốc Cô Oanh",
+    "address": "Ngõ 16 Hoè Nhai, Nguyễn Trung Trực, Ba Đình, Hà Nội",
+    "menu": [
+      "Bún ốc nguội",
+      "Bún ốc nóng",
+      "Ốc luộc",
+      "Bún đậu mắm tôm"
+    ],
+    "rating": 4.8,
+    "latitude": 21.0428281,
+    "longitude": 105.846908
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bún Riêu Cua Bà Béo",
+    "address": "40 Hàng Tre, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún riêu cua",
+      "Bún ốc nóng",
+      "Nem rán (Chả giò)",
+      "Quẩy nóng"
+    ],
+    "rating": 4.1,
+    "latitude": 21.0331758,
+    "longitude": 105.8551416
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bánh Gối – Quán Gốc Đa",
+    "address": "52 Lý Quốc Sư, Hàng Trống, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bánh gối",
+      "Bánh rán mặn",
+      "Bánh rán ngọt",
+      "Lòng rán",
+      "Nem chua rán"
+    ],
+    "rating": 4.4,
+    "latitude": 21.0301157,
+    "longitude": 105.8490388
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bánh Tôm Hồ Tây",
+    "address": "1 Thanh Niên, Yên Phụ, Tây Hồ, Hà Nội",
+    "menu": [
+      "Bánh tôm Hồ Tây",
+      "Bún ngan",
+      "Nộm bò khô",
+      "Nem rán (Chả giò)"
+    ],
+    "rating": 4.0,
+    "latitude": 21.0473212,
+    "longitude": 105.8376261
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Ngan Cháy Tỏi Tây Hồ",
+    "address": "35 Võ Thị Sáu, Tây Hồ, Hà Nội",
+    "menu": [
+      "Ngan cháy tỏi",
+      "Bún ngan",
+      "Lẩu ếch măng cay"
+    ],
+    "rating": 4.3,
+    "latitude": 21.0048191,
+    "longitude": 105.8531941
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Nộm Bò Khô Thanh Hương",
+    "address": "2B Đinh Liệt, Hàng Bạc, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Nộm bò khô",
+      "Ô mai",
+      "Sấu ngâm",
+      "Cốm làng Vòng"
+    ],
+    "rating": 4.0,
+    "latitude": 21.0334603,
+    "longitude": 105.8519694
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Bít Tết Hòe Nhai",
+    "address": "46 Hòe Nhai, Nguyễn Trung Trực, Ba Đình, Hà Nội",
+    "menu": [
+      "Bít tết Hòe Nhai",
+      "Cơm rang dưa bò",
+      "Trứng vịt lộn tần ngải cứu",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.1,
+    "latitude": 21.0414978,
+    "longitude": 105.846709
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Lẩu Ếch Măng Cay Đội Cấn",
+    "address": "18 Đội Cấn, Đội Cấn, Ba Đình, Hà Nội",
+    "menu": [
+      "Lẩu ếch măng cay",
+      "Bò nướng chảo gang",
+      "Thịt xiên nướng"
+    ],
+    "rating": 4.8,
+    "latitude": 21.0333789,
+    "longitude": 105.829331
+  },
+  {
+    "place type": "restaurant",
+    "restaurant_name": "Mì Vằn Thắn Khánh",
+    "address": "51 Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Mì vằn thắn",
+      "Giò chả Ước Lễ",
+      "Quẩy nóng"
+    ],
+    "rating": 4.9,
+    "latitude": 21.0354756,
+    "longitude": 105.8504855
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": null,
+    "address": "Phố Ngũ Xã, Trúc Bạch, Ba Đình, Hà Nội (nhiều quán dọc phố)",
+    "menu": [
+      "Phở cuốn",
+      "Phở chiên phồng",
+      "Nộm bò khô"
+    ],
+    "rating": 4.3,
+    "latitude": 21.0460215,
+    "longitude": 105.8410062
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": null,
+    "address": "Phố Tô Hiến Thành, Hai Bà Trưng, Hà Nội (hàng bánh cuốn Thanh Trì)",
+    "menu": [
+      "Bánh cuốn Thanh Trì",
+      "Giò chả Ước Lễ"
+    ],
+    "rating": 4.4,
+    "latitude": 20.9714955,
+    "longitude": 105.7841878
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": "Bún Chả Ta Hà Nội",
+    "address": "21 Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún chả",
+      "Nem rán (Chả giò)",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.6,
+    "latitude": 21.0326,
+    "longitude": 105.8548
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": "Bánh Mì Vạn Mít",
+    "address": "21 Phố Huế, Hàng Bài, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bánh mì",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.5,
+    "latitude": 21.0205,
+    "longitude": 105.8507
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": "Chả Cá Hàng Sơn",
+    "address": "77 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Chả cá Lã Vọng",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.4,
+    "latitude": 21.0333,
+    "longitude": 105.8475
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": "Bún thang Bà Tòng",
+    "address": "11 Hàng Hòm, Hàng Gai, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún thang",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.3,
+    "latitude": 21.0328,
+    "longitude": 105.8488
+  },
+  {
+    "place type": "street food",
+    "restaurant_name": "Bún Thang Thanh Gia Truyền",
+    "address": "12 Hàng Hành, Hàng Trống, Hoàn Kiếm, Hà Nội",
+    "menu": [
+      "Bún thang",
+      "Trà đá vỉa hè"
+    ],
+    "rating": 4.5,
+    "latitude": 21.0318,
+    "longitude": 105.8505
+  }
+]

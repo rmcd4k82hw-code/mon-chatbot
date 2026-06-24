@@ -1,0 +1,1312 @@
+[
+  {
+    "dish_id": "NS01",
+    "name": "Phở bò (Beef Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "60000 - 80000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Flat rice noodles",
+      "Beef",
+      "Beef leg bones",
+      "Star anise",
+      "Black cardamom",
+      "Cinnamon"
+    ],
+    "taste_profile": "Lightly sweet from simmered bones, deeply savory, fragrant with warm raw spices",
+    "ai_search_tags": "breakfast, winter, comforting, traditional, national dish, hangover cure",
+    "detailed_description": "Phở bò is the crown jewel of Hanoi's cuisine, built on a crystal-clear broth simmered for hours from beef leg bones. Tender, chewy rice noodle strands pair with thinly sliced beef and fresh coriander to create a flavor that wins over every diner."
+  },
+  {
+    "dish_id": "NS02",
+    "name": "Phở gà (Chicken Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "50000 - 70000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Flat rice noodles",
+      "Free-range chicken",
+      "Chicken bones",
+      "Lime leaves",
+      "Ginger",
+      "Roasted dried shallots"
+    ],
+    "taste_profile": "Light and refreshing, crystal-clear broth, richly savory from free-range chicken",
+    "ai_search_tags": "breakfast, light meal, delicate, traditional, easy to digest, lime leaf",
+    "detailed_description": "Phở gà charms diners with a sweet broth simmered from chicken bones, topped with a thin golden layer of fat gently floating on the surface. The free-range chicken is firm and chewy, sliced into bite-sized pieces and finished with a sprinkle of fragrant shredded lime leaf in true Hanoi style."
+  },
+  {
+    "dish_id": "NS03",
+    "name": "Bún ốc nguội (Cold Snail Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Stuffed field snails",
+      "Fermented rice vinegar broth",
+      "Tomato",
+      "Chili oil",
+      "Snail cooking broth"
+    ],
+    "taste_profile": "Gently sour, fiery spicy, cool and refreshing, crunchy",
+    "ai_search_tags": "summer, refreshing, snack, sour and spicy, cooling, street stroll",
+    "detailed_description": "This dish carries the nostalgic charm of old Hanoi, served with a cold broth that's mildly sour from fermented rice vinegar and fiery from chili oil. Each plump, crunchy stuffed snail is dipped and eaten with cool loose vermicelli, perfect for beating the summer heat."
+  },
+  {
+    "dish_id": "NS04",
+    "name": "Bún ốc nóng (Hot Snail Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 55000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Periwinkle snails",
+      "Stuffed field snails",
+      "Tomato",
+      "Fermented rice vinegar broth",
+      "Perilla leaf"
+    ],
+    "taste_profile": "Rich and savory, mildly sour, deeply fragrant with perilla and fermented rice vinegar",
+    "ai_search_tags": "winter, comforting, breakfast, gently sour, picnic, gathering with friends",
+    "detailed_description": "Bún ốc nóng is irresistible with its bubbling hot bowl of broth, mildly soured with tomato and fermented sticky rice vinegar. It's served with snails boiled just right, topped with finely chopped perilla and scallion for a warm, harmonious finish."
+  },
+  {
+    "dish_id": "NS05",
+    "name": "Bún riêu cua (Crab Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "30000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Field crab roe",
+      "Tomato",
+      "Fried tofu",
+      "Fermented shrimp paste",
+      "Fried shallots"
+    ],
+    "taste_profile": "Sweet from field crab, gently sour, fragrant with fermented shrimp paste",
+    "ai_search_tags": "breakfast, refreshing, homestyle, savory, afternoon snack, easy to eat",
+    "detailed_description": "A proper bowl of bún riêu stands out with its shimmering crab roe topping, a gently sour broth, and golden fried tofu. To bring out its signature flavor, a touch of pure fermented shrimp paste is the essential seasoning for true connoisseurs."
+  },
+  {
+    "dish_id": "NS06",
+    "name": "Bún thang (Hanoi Mixed Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "50000 - 100000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Shredded chicken",
+      "Shredded Vietnamese pork sausage",
+      "Thin fried egg, shredded",
+      "Dried radish",
+      "Dried shrimp"
+    ],
+    "taste_profile": "Elegant and delicate, gently sweet, intricate and refined",
+    "ai_search_tags": "refined, serene, festive occasions, special, breakfast, elegant",
+    "detailed_description": "Known as the 'flower' of Hanoi cuisine, bún thang demands meticulous care in finely shredding every ingredient. The broth must be perfectly clear, sweetened naturally by chicken bones and dried shrimp, and finished with a touch of rare cà cuống essence for a truly special aroma."
+  },
+  {
+    "dish_id": "NS07",
+    "name": "Bún cá (Fish Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Crispy fried tilapia",
+      "Water celery",
+      "Tomato",
+      "Fish bones",
+      "Dill"
+    ],
+    "taste_profile": "Sweet and clean fish flavor, crunchy, gently sour",
+    "ai_search_tags": "lunch, change of pace, savory, winter, everyday, fragrant",
+    "detailed_description": "Hanoi's bún cá stands out with richly seasoned fish slices fried to a crisp golden brown without turning mushy. The broth, simmered from fish bones, is naturally sweet and pairs beautifully with crunchy water celery or fresh mustard greens."
+  },
+  {
+    "dish_id": "NS08",
+    "name": "Bún dọc mùng (Taro Stem Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Elephant ear taro stem",
+      "Pork knuckle",
+      "Boiled pork leg",
+      "Bone broth",
+      "Fresh turmeric"
+    ],
+    "taste_profile": "Refreshing, crunchy taro stem, richly savory pork knuckle",
+    "ai_search_tags": "refreshing, lunch, hearty, familiar, easy to digest, crunchy",
+    "detailed_description": "The highlight of this dish is the carefully peeled taro stem, rubbed with salt to remove its itch, giving a satisfying crunch with every bite. Paired with tender, richly savory pork knuckle, this noodle dish easily wins over even the pickiest eaters."
+  },
+  {
+    "dish_id": "NS09",
+    "name": "Bún mọc (Pork Meatball Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 55000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Shiitake pork meatballs",
+      "Baby pork ribs",
+      "Cinnamon pork sausage",
+      "Bone broth",
+      "Fried shallots"
+    ],
+    "taste_profile": "Lightly sweet, rustic, fragrant with shiitake mushroom",
+    "ai_search_tags": "breakfast, gentle, family, homestyle, easy to eat, comforting",
+    "detailed_description": "A simple yet refined noodle dish featuring springy meatballs made from pounded pork paste mixed with finely chopped shiitake mushroom and wood ear fungus. The crystal-clear broth, simmered from baby pork ribs, is rounded out with a few slices of cinnamon pork sausage for an irresistible, rustic flavor."
+  },
+  {
+    "dish_id": "NS10",
+    "name": "Bún ngan (Muscovy Duck Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "40000 - 65000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Muscovy duck meat",
+      "Dried bamboo shoots",
+      "Scallion",
+      "Vietnamese coriander",
+      "Duck broth"
+    ],
+    "taste_profile": "Rich and savory, deeply fatty, crunchy bamboo shoots, fragrant with Vietnamese coriander",
+    "ai_search_tags": "lunch, drinking food, late night, gathering, savory, filling",
+    "detailed_description": "Tender, juicy boiled muscovy duck is the soul of this noodle bowl. What sets it apart is the naturally sweet broth released during boiling, served with simmered dried bamboo shoots that soak up an irresistibly rich flavor."
+  },
+  {
+    "dish_id": "NS11",
+    "name": "Phở sốt vang (Red Wine Beef Stew Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "45000 - 70000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Flat rice noodles",
+      "Beef brisket",
+      "Red wine",
+      "Gấc fruit",
+      "Five-spice powder",
+      "Carrot"
+    ],
+    "taste_profile": "Rich and savory, deeply fatty, hints of red wine and five-spice powder",
+    "ai_search_tags": "winter, breakfast, comforting, savory, late night, nourishing",
+    "detailed_description": "Phở sốt vang is a unique fusion of French and Vietnamese cuisine. Beef brisket is slow-braised with red wine and gấc fruit, creating an eye-catching reddish-orange hue and a rich flavor that's perfect for Hanoi's chilly, windy days."
+  },
+  {
+    "dish_id": "NS12",
+    "name": "Miến lươn nước (Eel Glass Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "40000 - 65000",
+    "place": "streetfood",
+    "ingredients": [
+      "Glass noodles",
+      "Field eel",
+      "Eel bone broth",
+      "Vietnamese coriander",
+      "Bean sprouts",
+      "Fried shallots"
+    ],
+    "taste_profile": "Deeply sweet with eel flavor, fragrant with Vietnamese coriander, eel served crispy or tender",
+    "ai_search_tags": "lunch, refreshing, specialty, nourishing, Vietnamese coriander, change of pace",
+    "detailed_description": "Miến lươn nước wins diners over with its richly sweet broth, made entirely from finely pounded eel bones. The chewy glass noodles pair with crispy fried eel or tender stir-fried eel, finished with fragrant Vietnamese coriander."
+  },
+  {
+    "dish_id": "NS13",
+    "name": "Miến gà (Chicken Glass Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Glass noodles",
+      "Free-range chicken",
+      "Chicken broth",
+      "Wood ear fungus",
+      "Shiitake mushroom",
+      "Coriander"
+    ],
+    "taste_profile": "Light and sweet, gentle, fragrant with mushroom",
+    "ai_search_tags": "breakfast, light meal, delicate, easy to digest, comforting, traditional",
+    "detailed_description": "A proper bowl of miến gà offers a light, refreshing feel with a clear, low-fat chicken broth. Chewy glass noodles combine with shredded free-range chicken and crunchy wood ear and shiitake mushrooms for a perfectly light breakfast."
+  },
+  {
+    "dish_id": "NS14",
+    "name": "Mì vằn thắn (Wonton Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "40000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Fresh egg noodles",
+      "Shrimp and pork wontons",
+      "Char siu pork",
+      "Boiled egg",
+      "Pork liver",
+      "Garlic chives"
+    ],
+    "taste_profile": "Richly sweet with dried shrimp flavor, chewy noodles, rich wontons",
+    "ai_search_tags": "dinner, hearty, filling, savory, old quarter, family",
+    "detailed_description": "Hanoi's mì vằn thắn features a sweet broth simmered carefully from leg bones and dried shrimp shells. The hearty bowl comes loaded with golden fresh egg noodles, melt-in-your-mouth wontons, slices of char siu, pork liver, and bright green chives for a wonderful blend of flavors."
+  },
+  {
+    "dish_id": "NS15",
+    "name": "Bún sườn sụn (Cartilage Rib Noodle Soup)",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 55000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Pork cartilage ribs",
+      "Tomato",
+      "Elephant ear taro stem",
+      "Bone broth",
+      "Scallion"
+    ],
+    "taste_profile": "Gently sour, crunchy cartilage ribs, broth sweet from bones",
+    "ai_search_tags": "breakfast, lunch, crunchy, homestyle, easy to eat, comforting",
+    "detailed_description": "This addictive dish features cartilage ribs simmered just right, retaining their signature crunch with every bite. A mildly sour broth from tomato, paired with refreshing taro stem, makes for an incredibly moreish bowl of noodles."
+  },
+  {
+    "dish_id": "ST01",
+    "name": "Nem chua rán (Fried Fermented Pork Rolls)",
+    "category": "STREET_FOOD",
+    "price_range": "5000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Pork",
+      "Pork skin",
+      "Roasted rice powder",
+      "Breadcrumbs",
+      "Garlic",
+      "Chili oil"
+    ],
+    "taste_profile": "Richly fatty, crispy outside, chewy and tender inside, lightly sweet",
+    "ai_search_tags": "snack, street food, students, gathering, late afternoon, sweet and spicy",
+    "detailed_description": "Nem chua rán is an iconic snack that's a must for Hanoi's younger crowd. Each fermented pork roll is rolled in breadcrumbs and deep-fried until golden, then dipped in a sweet-spicy chili sauce for a rich, irresistible flavor."
+  },
+  {
+    "dish_id": "ST02",
+    "name": "Bánh tôm Hồ Tây (West Lake Shrimp Cakes)",
+    "category": "STREET_FOOD",
+    "price_range": "30000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Freshwater shrimp",
+      "Wheat flour",
+      "Sweet potato",
+      "Sweet and sour fish sauce",
+      "Green papaya",
+      "Fresh herbs"
+    ],
+    "taste_profile": "Crispy, sweet from fresh shrimp, harmoniously sweet and sour",
+    "ai_search_tags": "late afternoon, stroll, West Lake, gathering, crispy, specialty",
+    "detailed_description": "Tied closely to the scenic West Lake, this dish stands out with its batter of wheat flour mixed with shredded sweet potato, fried to a satisfying crisp. On top sits a whole shell-on shrimp, rolled with fresh herbs and dipped in green papaya fish sauce to cut the richness."
+  },
+  {
+    "dish_id": "ST03",
+    "name": "Bánh gối (Vietnamese Pillow Dumplings)",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Wheat flour wrapper",
+      "Minced pork",
+      "Glass noodles",
+      "Wood ear fungus",
+      "Quail egg",
+      "Vietnamese sausage"
+    ],
+    "taste_profile": "Crispy shell, deeply savory filling fragrant with pepper, rich",
+    "ai_search_tags": "afternoon snack, winter, street food, students, comforting, crispy",
+    "detailed_description": "Shaped like a small pillow, this fried wheat-flour pastry turns golden brown and crispy on the outside. Inside is a savory mix of minced pork, glass noodles, wood ear fungus, and a single quail egg, all served with a sweet-and-sour dipping sauce."
+  },
+  {
+    "dish_id": "ST04",
+    "name": "Bánh rán mặn (Savory Fried Rice Cakes)",
+    "category": "STREET_FOOD",
+    "price_range": "8000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Sticky rice flour",
+      "Plain rice flour",
+      "Pork",
+      "Wood ear fungus",
+      "Glass noodles",
+      "Chili sauce"
+    ],
+    "taste_profile": "Chewy yet crispy sticky rice shell, savory pork filling, sweet and spicy sauce",
+    "ai_search_tags": "winter, afternoon snack, street food, chewy, comforting, budget-friendly",
+    "detailed_description": "Unlike its sweet counterpart, this savory rice cake has a chewy sticky-rice shell that's fried crisp on the outside, wrapped around a fragrant filling of minced pork and wood ear fungus. It's typically cut up into a bowl and drizzled with a thick, sweet-spicy-savory sauce."
+  },
+  {
+    "dish_id": "ST05",
+    "name": "Bánh rán ngọt (Sweet Fried Rice Cakes)",
+    "category": "STREET_FOOD",
+    "price_range": "5000 - 8000",
+    "place": "streetfood",
+    "ingredients": [
+      "Sticky rice flour",
+      "Mashed mung bean",
+      "Molasses",
+      "White sesame seeds",
+      "Grated coconut"
+    ],
+    "taste_profile": "Delightfully sweet, fragrant with sesame, crispy golden shell",
+    "ai_search_tags": "snack, afternoon treat, sweet tooth, street food, students, nostalgic",
+    "detailed_description": "Bánh rán ngọt is woven into the childhood memories of countless Hanoians, with two popular variations: sugar-glazed and molasses-glazed. The crispy sesame-coated shell wraps around a sweet, fluffy mung bean and coconut filling."
+  },
+  {
+    "dish_id": "ST06",
+    "name": "Bánh đúc nóng (Hot Savory Rice Cake)",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Rice flour",
+      "Minced pork",
+      "Wood ear fungus",
+      "Dried shallots",
+      "Sweet and sour fish sauce",
+      "Coriander"
+    ],
+    "taste_profile": "Silky and soft, richly fatty from scallion oil, deeply savory minced pork",
+    "ai_search_tags": "winter, late afternoon, comforting, chewy, students, light meal",
+    "detailed_description": "Bánh đúc nóng is the perfect afternoon treat for Hanoi's cold days. The chewy, steaming rice cake is topped with savory stir-fried minced pork and wood ear fungus, then drenched in a mildly sweet-and-sour fish sauce."
+  },
+  {
+    "dish_id": "ST07",
+    "name": "Nộm bò khô (Dried Beef Salad)",
+    "category": "STREET_FOOD",
+    "price_range": "35000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Green papaya",
+      "Dried beef",
+      "Dried beef liver",
+      "Roasted peanuts",
+      "Fresh herbs",
+      "Sweet and sour fish sauce"
+    ],
+    "taste_profile": "Crunchy, sweet and sour, fiery spicy, nutty from peanuts",
+    "ai_search_tags": "afternoon snack, stroll, old quarter, refreshing, casual drinking, sweet and sour",
+    "detailed_description": "A famous street food on Hoan Kiem's streets, this salad features thinly shaved, crunchy green papaya. Its soul lies in the spicy marinated dried beef and rich dried liver, tossed together with sweet-and-sour fish sauce and fragrant roasted peanuts."
+  },
+  {
+    "dish_id": "ST08",
+    "name": "Bánh giò (Pyramid-Shaped Rice Dumpling)",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 30000",
+    "place": "streetfood",
+    "ingredients": [
+      "Plain rice flour",
+      "Tapioca starch",
+      "Minced pork",
+      "Wood ear fungus",
+      "Dried shallots",
+      "Banana leaf"
+    ],
+    "taste_profile": "Soft, slightly springy wrapper, richly fatty filling, hint of banana leaf aroma",
+    "ai_search_tags": "breakfast, afternoon snack, soft texture, comforting, traditional, springy",
+    "detailed_description": "This familiar pyramid-shaped cake is carefully wrapped in fresh green banana leaf. Once unwrapped, the soft, slightly springy rice dough reveals a richly savory minced pork and wood ear fungus filling with an irresistible aroma."
+  },
+  {
+    "dish_id": "ST09",
+    "name": "Lòng rán (Fried Pork Offal)",
+    "category": "STREET_FOOD",
+    "price_range": "50000 - 150000",
+    "place": [
+      "streetfood"
+    ],
+    "ingredients": [
+      "Pork small intestine",
+      "Pork stomach",
+      "Scallion",
+      "Fermented shrimp paste",
+      "Thai basil",
+      "Fresh lime"
+    ],
+    "taste_profile": "Crispy outside, chewy inside, richly fatty",
+    "ai_search_tags": "drinks with friends, casual drinking, gathering, evening, crispy, everyday",
+    "detailed_description": "Cleaned and richly marinated pork intestine and stomach are deep-fried until golden brown. Served alongside rice noodle sheets and dipped in whipped fermented shrimp paste with fragrant Thai basil, it's the perfect bite for an evening hangout."
+  },
+  {
+    "dish_id": "ST10",
+    "name": "Dồi sụn nướng (Grilled Cartilage Sausage)",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 30000",
+    "place": "streetfood",
+    "ingredients": [
+      "Pork intestine casing",
+      "Minced pork cartilage",
+      "Pork shoulder",
+      "Onion",
+      "Thai basil",
+      "Roasted peanuts"
+    ],
+    "taste_profile": "Deeply aromatic, satisfyingly crunchy cartilage, richly marinated",
+    "ai_search_tags": "snack, street food, fragrant, crunchy, casual drinking, late afternoon",
+    "detailed_description": "Plump sausage links sizzle over a charcoal grill, filling the street corner with an irresistible aroma. The chewy casing holds a crunchy cartilage filling mixed with minced pork and fresh herbs for a fun, satisfying chew."
+  },
+  {
+    "dish_id": "ST11",
+    "name": "Ốc luộc (Boiled Snails)",
+    "category": "STREET_FOOD",
+    "price_range": "40000 - 80000",
+    "place": "streetfood",
+    "ingredients": [
+      "Periwinkle snails",
+      "Mít snails",
+      "Lemongrass",
+      "Lime leaves",
+      "Ginger",
+      "Ginger-chili fish sauce"
+    ],
+    "taste_profile": "Crunchy, fatty snails, salty-sweet fish sauce with fiery lemongrass and ginger",
+    "ai_search_tags": "winter, hanging out, chatting, fiery spicy, gathering, street food",
+    "detailed_description": "Street-side snail stalls are a beloved part of Hanoi's food culture. Fresh snails are boiled just right with lime leaves and lemongrass, then picked out and dipped into a perfectly thick, smooth ginger-chili fish sauce."
+  },
+  {
+    "dish_id": "ST12",
+    "name": "Nem chua nướng (Grilled Fermented Pork Rolls)",
+    "category": "STREET_FOOD",
+    "price_range": "6000 - 12000",
+    "place": "streetfood",
+    "ingredients": [
+      "Raw fermented pork roll",
+      "Garlic",
+      "Chili",
+      "Sweet chili sauce",
+      "Young guava leaf",
+      "Kumquat"
+    ],
+    "taste_profile": "Fragrant golden-charred shell, chewy and sticky, blend of sour, spicy, salty, and sweet",
+    "ai_search_tags": "afternoon snack, winter, hanging out, sticky, casual stroll, comforting",
+    "detailed_description": "Unlike its deep-fried counterpart, nem chua here is grilled directly over hot charcoal until it renders fat and chars at the edges. The result is a sticky, chewy texture with a gently fermented sourness and a smoky aroma that's deeply addictive."
+  },
+  {
+    "dish_id": "ST13",
+    "name": "Chim quay (Roasted Quail)",
+    "category": "STREET_FOOD",
+    "price_range": "20000 - 45000",
+    "place": "streetfood",
+    "ingredients": [
+      "Quail",
+      "Five-spice powder",
+      "Honey",
+      "Mắc khén pepper",
+      "Garlic",
+      "Cooking oil"
+    ],
+    "taste_profile": "Glossy crispy skin, tender sweet meat soaked in spices, fragrant with mắc khén pepper",
+    "ai_search_tags": "dinner, drinking food, casual drinking, savory, street food, distinctive",
+    "detailed_description": "Quail marinated in five-spice powder and honey are roasted to a glossy golden brown. Biting in, the crispy skin shatters to reveal tender, sweet meat underneath, best enjoyed with a chili-lime salt-and-pepper dip."
+  },
+  {
+    "dish_id": "ST14",
+    "name": "Bò pía ngọt (Sweet Coconut Rice Paper Rolls)",
+    "category": "STREET_FOOD",
+    "price_range": "5000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Soft rice paper wrapper",
+      "Malt candy",
+      "Fresh grated coconut",
+      "Black sesame seeds",
+      "Coconut cream"
+    ],
+    "taste_profile": "Thin chewy wrapper, crispy sweet malt candy, richly fatty fresh coconut",
+    "ai_search_tags": "childhood, school gate, students, sweet, walking snack, nostalgic",
+    "detailed_description": "This humble treat is closely tied to the bicycle vendors who once sold it outside school gates. A thin rice paper wrapper rolls up a crispy stick of malt candy, with a sprinkle of grated coconut and black sesame for a sweet taste of childhood."
+  },
+  {
+    "dish_id": "ST15",
+    "name": "Bánh mì dân tổ (Loaded Street Sandwich)",
+    "category": "STREET_FOOD",
+    "price_range": "25000 - 40000",
+    "place": "streetfood",
+    "ingredients": [
+      "Toasted baguette",
+      "Egg",
+      "Pâté",
+      "Vietnamese sausage",
+      "Sausage links",
+      "Margarine"
+    ],
+    "taste_profile": "Richly fatty mixed filling stir-fried together, crispy baguette shell, deeply savory",
+    "ai_search_tags": "late night, night owls, queuing, rich, mixed filling, young crowd",
+    "detailed_description": "Famous as the go-to food for Hanoi's night owls, this sandwich's standout feature is its all-in-one filling. Egg, pâté, sausage, and ham are all stir-fried together in one large pan into a rich, gooey mixture, then stuffed into a crispy baguette."
+  },
+  {
+    "dish_id": "ST16",
+    "name": "Bít tết Hòe Nhai (Hòe Nhai Street Steak)",
+    "category": "STREET_FOOD",
+    "price_range": "70000 - 120000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Beef",
+      "Pâté",
+      "Sunny-side-up egg",
+      "French fries",
+      "Bread",
+      "Black pepper sauce"
+    ],
+    "taste_profile": "Richly fatty from pâté, sizzling tender sweet beef, deeply savory sauce",
+    "ai_search_tags": "dinner, casually upscale, date night, lively, sizzling, filling",
+    "detailed_description": "Unlike Western-style steak, Hanoi's street steak is served on a sizzling hot cast-iron pan still bubbling with fat. A generous portion comes with richly marinated beef, a runny sunny-side-up egg, and rich pâté, all paired with a sauce for dipping bread."
+  },
+  {
+    "dish_id": "ST17",
+    "name": "Phở chiên phồng (Puffed Fried Phở Noodles)",
+    "category": "STREET_FOOD",
+    "price_range": "40000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Flat rice noodles",
+      "Beef",
+      "Choy sum",
+      "Beef sauce",
+      "Garlic"
+    ],
+    "taste_profile": "Puffed, crispy phở noodles, tender garlic-fried beef, smooth thick sauce",
+    "ai_search_tags": "dinner, gathering, crispy, savory, unique flavor, Ngu Xa",
+    "detailed_description": "A specialty of the Ngu Xa neighborhood, this dish features square-cut rice noodle sheets deep-fried until they puff up and turn delightfully crispy. They're topped with garlic-fried beef and bright green choy sum, all drenched in a smooth, deeply savory sauce."
+  },
+  {
+    "dish_id": "ST18",
+    "name": "Trứng vịt lộn tần ngải cứu (Balut Soup with Mugwort)",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Balut (fertilized duck egg)",
+      "Mugwort",
+      "Mixed Chinese herbal spice pack",
+      "Fresh ginger",
+      "Seasoning powder"
+    ],
+    "taste_profile": "Deeply savory with Chinese herbal notes, slight bitterness from mugwort, rich and creamy egg",
+    "ai_search_tags": "late night, nourishing, comforting, winter, cold remedy, everyday",
+    "detailed_description": "A late-night dish that's both humble and nourishing for Hanoians. Balut is slow-simmered with young mugwort leaves and Chinese herbal spices, producing a dark, slightly bitter broth with a surprisingly sweet and warming aftertaste."
+  },
+  {
+    "dish_id": "ST19",
+    "name": "Quẩy nóng (Hot Fried Dough Sticks)",
+    "category": "STREET_FOOD",
+    "price_range": "10000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Wheat flour",
+      "Baking powder",
+      "Sweet and sour fish sauce",
+      "Green papaya",
+      "Fresh chili"
+    ],
+    "taste_profile": "Crispy and airy outside, hollow inside, harmoniously sweet and sour",
+    "ai_search_tags": "winter, snack, late afternoon, crispy, street food, students",
+    "detailed_description": "Whenever the cool season rolls around, hot quẩy stalls get busy with customers. Strips of dough are dropped into bubbling hot oil, puffing up airy and golden, then cut up and dipped into a sweet-and-sour green papaya fish sauce."
+  },
+  {
+    "dish_id": "ST20",
+    "name": "Thịt xiên nướng (Grilled Pork Skewers)",
+    "category": "STREET_FOOD",
+    "price_range": "8000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Pork shoulder",
+      "Lemongrass",
+      "Shallots",
+      "Honey",
+      "White sesame seeds"
+    ],
+    "taste_profile": "Deeply fragrant with lemongrass, charred glossy fat, sweet from honey",
+    "ai_search_tags": "school gate, after work, fragrant, snack, street stroll, casual drinking",
+    "detailed_description": "Any school gate or street corner around closing time will have the faint, irresistible smoke of grilled skewers drifting through the air. Pork shoulder marinated in lemongrass, shallots, and honey is grilled until charred at the edges, delicious eaten on its own or tucked into a baguette."
+  },
+  {
+    "dish_id": "DD01",
+    "name": "Cà phê trứng (Egg Coffee)",
+    "category": "DRINK_DESSERT",
+    "price_range": "30000 - 50000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Robusta coffee",
+      "Egg yolk",
+      "Condensed milk",
+      "Honey",
+      "Cocoa powder"
+    ],
+    "taste_profile": "Richly fatty, airy and smooth egg cream, lightly bitter coffee, no fishy taste at all",
+    "ai_search_tags": "date night, old quarter, morning, sipping slowly, specialty, richly fatty",
+    "detailed_description": "One of Hanoi's most creative drinks, featuring a smooth, airy whipped egg cream floating atop a base of strong black coffee. The secret lies in the delicate treatment of the egg yolk, resulting in a rich, sweet cup with absolutely no eggy aftertaste."
+  },
+  {
+    "dish_id": "DD02",
+    "name": "Nước sấu đá (Iced Sấu Fruit Drink)",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Fresh sấu fruit",
+      "Granulated sugar",
+      "Fresh ginger",
+      "Filtered water",
+      "Ice cubes"
+    ],
+    "taste_profile": "Gently sour, refreshingly sweet, hint of mildly spicy ginger",
+    "ai_search_tags": "summer, refreshing drink, stroll, cooling, street food, childhood",
+    "detailed_description": "This humble drink fully captures the essence of a Hanoi summer. Crunchy sấu fruit is soaked in sugar, and the resulting syrup is mixed with cold ice and a few slices of ginger for instant refreshment."
+  },
+  {
+    "dish_id": "DD03",
+    "name": "Trà chanh (Lemon Tea)",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Black tea",
+      "Fresh lime",
+      "Granulated sugar",
+      "Honey",
+      "Ice"
+    ],
+    "taste_profile": "Lightly astringent tea, harmoniously sweet and sour, fragrant with lime zest oils",
+    "ai_search_tags": "hanging out, gathering, street food, cathedral area, cooling, evening",
+    "detailed_description": "The 'lemon tea and idle chat' culture has become an intangible specialty of Hanoi's youth. The flavor is simple, just a blend of lightly astringent black tea, the gentle sourness of fresh lime, and mild sweetness, making it a beloved national refreshment."
+  },
+  {
+    "dish_id": "DD04",
+    "name": "Trà đá vỉa hè (Street-Side Iced Tea)",
+    "category": "DRINK_DESSERT",
+    "price_range": "3000 - 5000",
+    "place": "streetfood",
+    "ingredients": [
+      "Dried green tea",
+      "Boiling water",
+      "Ice cubes",
+      "Pandan leaf (optional)"
+    ],
+    "taste_profile": "Sharply astringent upfront, refined sweet finish, cool and refreshing",
+    "ai_search_tags": "everyday, after meals, hanging out, chatting, refreshing, budget-friendly",
+    "detailed_description": "Rain or shine, the iced tea stalls under the shade of almond trees are always bustling. A glass of lightly brewed tea with a few clear ice cubes is all it takes to kick off countless everyday conversations among the city's locals."
+  },
+  {
+    "dish_id": "DD05",
+    "name": "Chè sen nhãn lồng (Lotus Seed and Longan Sweet Soup)",
+    "category": "DRINK_DESSERT",
+    "price_range": "20000 - 35000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Fresh lotus seeds",
+      "Hung Yen longan",
+      "Rock sugar",
+      "Jasmine flower",
+      "Filtered water"
+    ],
+    "taste_profile": "Lightly sweet from rock sugar, crunchy longan, soft mealy lotus seeds",
+    "ai_search_tags": "summer, refined, cooling, nourishing, traditional, soothing",
+    "detailed_description": "This elegant sweet soup showcases the skill of Hanoi's home cooks. Soft, mealy lotus seeds are nestled inside thick, juicy longan flesh, then served in a clear rock-sugar syrup infused with jasmine for a gently sweet finish."
+  },
+  {
+    "dish_id": "DD06",
+    "name": "Chè khúc bạch (Almond Jelly Sweet Soup)",
+    "category": "DRINK_DESSERT",
+    "price_range": "25000 - 40000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Gelatin powder",
+      "Unsweetened fresh milk",
+      "Whipping cream",
+      "Sliced almonds",
+      "Fresh longan",
+      "Rock sugar"
+    ],
+    "taste_profile": "Gently sweet, wobbly milk jelly that melts in the mouth, nutty toasted almonds",
+    "ai_search_tags": "cooling, summer, trendy, refreshing, dessert, sweet tooth",
+    "detailed_description": "Once a major youth trend, chè khúc bạch wins hearts with its soft, wobbly milk-and-cheese jelly cubes. The bowl is even more inviting with cooling rock-sugar syrup, crunchy longan flesh, and a layer of fragrant toasted sliced almonds."
+  },
+  {
+    "dish_id": "DD07",
+    "name": "Tào phớ hoa nhài (Jasmine Tofu Pudding)",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Soybeans",
+      "Apricot blossom sugar",
+      "Fresh jasmine flowers",
+      "Black jelly",
+      "Tapioca pearls"
+    ],
+    "taste_profile": "Silky smooth on the throat, lightly sweet, fragrant with jasmine",
+    "ai_search_tags": "summer, refreshing, gentle, snack, street stroll, traditional",
+    "detailed_description": "The street call of 'Tofu pudding here...' once echoed familiarly through the city. Thin, snow-white slices of tofu pudding are drenched in an amber-colored apricot blossom syrup, infused with pure jasmine fragrance to wash away the day's exhaustion."
+  },
+  {
+    "dish_id": "DD08",
+    "name": "Sữa chua dẻo (Chewy Yogurt)",
+    "category": "DRINK_DESSERT",
+    "price_range": "20000 - 30000",
+    "place": "streetfood",
+    "ingredients": [
+      "Naturally fermented yogurt",
+      "Gelatin powder",
+      "Condensed milk",
+      "Cocoa powder",
+      "Fresh fruit"
+    ],
+    "taste_profile": "Gently tangy and sweet, chewy and smooth, lightly bitter cocoa",
+    "ai_search_tags": "dessert, afternoon snack, date night, refreshing, easy to digest, stroll",
+    "detailed_description": "Neither as runny as regular yogurt nor as firm as ice, chewy yogurt has a dense, jelly-like texture and is cut into neat squares. It's usually finished with a light dusting of cocoa powder or a colorful sprinkle of diced fresh fruit."
+  },
+  {
+    "dish_id": "DD09",
+    "name": "Kem Tràng Tiền (Tràng Tiền Ice Cream)",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Fresh milk",
+      "Granulated sugar",
+      "Young green sticky rice (cốm)",
+      "Mung bean",
+      "Condensed milk"
+    ],
+    "taste_profile": "Delightfully sweet, fragrant and chewy with cốm flavor, nutty mung bean, refreshingly cold",
+    "ai_search_tags": "walking, Hoan Kiem Lake stroll, summer, nostalgic, eating standing up, childhood",
+    "detailed_description": "Visiting the lake without standing on the street to eat a Tràng Tiền ice cream cone simply doesn't count as visiting Hanoi. With no tables or chairs, customers stand shoulder to shoulder enjoying the fragrant cốm or mung bean flavors, a unique cultural ritual found nowhere else."
+  },
+  {
+    "dish_id": "DD10",
+    "name": "Cà phê cốt dừa (Coconut Coffee)",
+    "category": "DRINK_DESSERT",
+    "price_range": "35000 - 55000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Drip-filtered coffee",
+      "Coconut cream",
+      "Condensed milk",
+      "Finely crushed ice",
+      "Dried coconut"
+    ],
+    "taste_profile": "Sharp bitter coffee blending with rich, refreshingly cool coconut",
+    "ai_search_tags": "date night, hanging out, richly fatty, cooling, energizing, work breaks",
+    "detailed_description": "A modern twist beloved by the younger crowd. A snowy-white blended coconut cream and condensed milk layer is slowly poured over a base of dark drip coffee, creating a striking marbled effect and an addictive bitter-rich flavor combo."
+  },
+  {
+    "dish_id": "SP01",
+    "name": "Cốm làng Vòng (Vong Village Young Rice)",
+    "category": "SPECIALTY",
+    "price_range": "200000 - 250000",
+    "place": "streetfood",
+    "ingredients": [
+      "Young glutinous rice",
+      "Fresh lotus leaf",
+      "Wild taro leaf",
+      "Sticky rice straw cord"
+    ],
+    "taste_profile": "Gently sweet, fragrant and chewy with the scent of young rice, hint of refined lotus leaf aroma",
+    "ai_search_tags": "autumn, gift item, refined, traditional, sipping slowly, afternoon tea",
+    "detailed_description": "This treat encapsulates Hanoi's autumn in a single package. Flat, vivid green grains of young rice are hand-pounded with meticulous care, then carefully wrapped in two layers — a wild taro leaf to retain moisture and a fragrant lotus leaf — tied with golden straw cord."
+  },
+  {
+    "dish_id": "SP02",
+    "name": "Ô mai (Vietnamese Salted Dried Fruit)",
+    "category": "SPECIALTY",
+    "price_range": "50000 - 150000",
+    "place": "streetfood",
+    "ingredients": [
+      "Fresh apricot",
+      "Granulated sugar",
+      "Refined salt",
+      "Shredded fresh ginger",
+      "Licorice"
+    ],
+    "taste_profile": "Harmoniously sour, salty, and sweet, warming spicy notes from ginger",
+    "ai_search_tags": "gift item, snack, sipping slowly, Hang Duong Street, traditional, sweet and sour",
+    "detailed_description": "Hang Duong Street is famous for its intricately packaged boxes of dried fruit. Countless varieties of fruit are skillfully preserved with sugar, ginger, and licorice, then carefully dried to create a sweet-and-sour treat that awakens every sense."
+  },
+  {
+    "dish_id": "SP03",
+    "name": "Trà sen Tây Hồ (West Lake Lotus Tea)",
+    "category": "SPECIALTY",
+    "price_range": "500000 - 1000000",
+    "place": "restaurant",
+    "ingredients": [
+      "Premium Tan Cuong tea",
+      "West Lake Bach Diep lotus flower",
+      "Fresh lotus leaf",
+      "Lotus seed rice"
+    ],
+    "taste_profile": "Gently astringent and refined, deep sweet finish, pure lotus fragrance",
+    "ai_search_tags": "gift giving, premium, serene, tea appreciation, elegant, specialty",
+    "detailed_description": "Dubbed the 'finest tea under heaven,' this requires artisans to use thousands of Bach Diep lotus blossoms picked at dawn to scent just a small batch of tea. The lotus fragrance infuses every leaf, resulting in a noble, serene flavor."
+  },
+  {
+    "dish_id": "SP04",
+    "name": "Bánh cốm (Young Rice Cake)",
+    "category": "SPECIALTY",
+    "price_range": "5000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Fresh young rice (cốm)",
+      "Ground mung bean",
+      "White sugar",
+      "Shredded coconut",
+      "Pomelo flower water"
+    ],
+    "taste_profile": "Chewy green young-rice shell, sweet and nutty mung bean filling, hint of pomelo flower aroma",
+    "ai_search_tags": "gift item, weddings, traditional, Hang Than Street, sweet, chewy",
+    "detailed_description": "An essential gift in Northern Vietnamese wedding ceremonies. The jade-green, chewy young-rice shell wraps around a sweet, nutty mung bean and coconut filling, lightly scented with delicate pomelo flower water."
+  },
+  {
+    "dish_id": "SP05",
+    "name": "Bánh chả (Grilled Pork Pastry)",
+    "category": "SPECIALTY",
+    "price_range": "30000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Wheat flour",
+      "Diced pork fat",
+      "Fresh lime leaf",
+      "Granulated sugar",
+      "Vietnamese sausage"
+    ],
+    "taste_profile": "Crispy shell, richly fatty pork fat, fragrant lime leaf",
+    "ai_search_tags": "afternoon tea, winter, gift item, richly fatty, traditional, sipping slowly",
+    "detailed_description": "This small baked pastry holds a world of memories. A crispy wheat-flour shell wraps around a filling of diced pork fat mixed with Vietnamese sausage and lime leaf, rich and deeply satisfying alongside a hot cup of black tea."
+  },
+  {
+    "dish_id": "SP06",
+    "name": "Bánh khảo (Roasted Rice Flour Cake)",
+    "category": "SPECIALTY",
+    "price_range": "30000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Roasted sticky rice flour",
+      "Granulated sugar",
+      "Diced pork fat",
+      "Candied winter melon",
+      "Pomelo flower scent"
+    ],
+    "taste_profile": "Distinctly sweet, fine and airy melting texture, richly fatty pork fat",
+    "ai_search_tags": "Lunar New Year, traditional, gift item, sipping slowly, green tea, festive feast",
+    "detailed_description": "A humble cake made from pure roasted sticky rice flour. The fine, airy, sweet shell wraps around a filling of candied winter melon and rich pork fat, melting on the tongue with a lingering hint of pomelo flower fragrance."
+  },
+  {
+    "dish_id": "SP07",
+    "name": "Giò chả Ước Lễ (Ước Lễ Pork Sausage)",
+    "category": "SPECIALTY",
+    "price_range": "200000 - 300000",
+    "place": "streetfood",
+    "ingredients": [
+      "Lean pork shoulder",
+      "Pure fish sauce concentrate",
+      "Southern banana leaf",
+      "Black pepper",
+      "Tapioca starch"
+    ],
+    "taste_profile": "Fragrant with boiled banana leaf, satisfyingly springy, sweet from fresh meat",
+    "ai_search_tags": "Lunar New Year, gift giving, family, festive feast, traditional, deeply savory",
+    "detailed_description": "A long-established, famous pork sausage brand in the capital. Each slice has a light pink color with tiny air pockets (a sign of no added borax), offering a satisfying spring and a natural sweetness from hand-pounded fresh meat."
+  },
+  {
+    "dish_id": "SP08",
+    "name": "Chè lam (Sticky Rice and Molasses Candy)",
+    "category": "SPECIALTY",
+    "price_range": "25000 - 45000",
+    "place": "streetfood",
+    "ingredients": [
+      "Roasted sticky rice flour",
+      "Sugarcane molasses",
+      "Fresh ginger",
+      "Roasted peanuts",
+      "Malt syrup"
+    ],
+    "taste_profile": "Deeply sweet from molasses, warmly spicy ginger, chewy and nutty",
+    "ai_search_tags": "winter, comforting, sipping slowly, gift item, afternoon tea, rustic",
+    "detailed_description": "Chè lam is a warming, rustic treat for cold winter days. The chewy bar has a glossy brown hue from sugarcane molasses, studded with nutty roasted peanuts and carrying the signature warming spice of fresh ginger."
+  },
+  {
+    "dish_id": "SP09",
+    "name": "Sấu ngâm (Pickled Sấu Fruit)",
+    "category": "SPECIALTY",
+    "price_range": "60000 - 100000",
+    "place": "streetfood",
+    "ingredients": [
+      "Mature sấu fruit",
+      "Granulated sugar",
+      "Fresh ginger",
+      "Alum",
+      "Refined salt"
+    ],
+    "taste_profile": "Sour and sweet, crunchy sấu fruit that doesn't go soft",
+    "ai_search_tags": "summer, refreshing drink, homemade, gift item, sweet and sour, cooling",
+    "detailed_description": "Jars of pickled sấu fruit in sugar syrup are a familiar sight in Hanoi kitchens every summer. The fruit is peeled and scored, then pickled in sugar and ginger while retaining its signature crunch, making for a wonderfully thirst-quenching iced drink."
+  },
+  {
+    "dish_id": "SP10",
+    "name": "Bánh phu thê (Husband and Wife Cake)",
+    "category": "SPECIALTY",
+    "price_range": "6000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Tapioca starch",
+      "Mung bean",
+      "Shredded coconut",
+      "Lotus seed",
+      "Gardenia flower"
+    ],
+    "taste_profile": "Chewy, springy shell with coconut crunch, sweet and nutty mung bean filling",
+    "ai_search_tags": "weddings, gift item, Hang Than Street, sweet and nutty, chewy, symbolic of happiness",
+    "detailed_description": "A symbolic cake representing loyalty and marital fulfillment at weddings. The glossy golden, translucent, chewy shell reveals strands of crunchy shredded coconut, wrapped around a refined, sweet mung bean and lotus seed filling."
+  },
+  {
+    "dish_id": "MC01",
+    "name": "Chả cá Lã Vọng (Lã Vọng Grilled Fish)",
+    "category": "MAIN_COURSE",
+    "price_range": "150000 - 250000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Fresh lăng fish",
+      "Fermented shrimp paste",
+      "Fermented rice",
+      "Galangal",
+      "Scallion",
+      "Dill",
+      "Roasted peanuts"
+    ],
+    "taste_profile": "Fragrant grilled fish with fermented rice and galangal, richly fatty, infused with fermented shrimp paste",
+    "ai_search_tags": "hosting guests, specialty, weekend, savory, upscale, family",
+    "detailed_description": "One of Hanoi's most famous dishes, named directly after the street where it originated. Lăng fish marinated in galangal and fermented rice is grilled to a golden char, then stir-fried tableside in bubbling oil with scallion and dill, served with rice noodles and nutty roasted peanuts."
+  },
+  {
+    "dish_id": "MC02",
+    "name": "Bún chả (Grilled Pork with Vermicelli)",
+    "category": "MAIN_COURSE",
+    "price_range": "50000 - 100000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Pork belly",
+      "Minced pork",
+      "Loose rice vermicelli",
+      "Sweet and sour fish sauce",
+      "Green papaya",
+      "Fresh herbs"
+    ],
+    "taste_profile": "Smoky charred grilled pork, harmoniously sweet and sour dipping sauce, refreshing",
+    "ai_search_tags": "lunch, national dish, savory, filling, famous, traditional",
+    "detailed_description": "A beloved national dish that has captured the hearts of countless diners. Sliced pork belly and minced pork patties are grilled over charcoal until smoky and fragrant, then soaked in a warm, sweet-and-sour fish sauce dressed with crunchy green papaya."
+  },
+  {
+    "dish_id": "MC03",
+    "name": "Bún đậu mắm tôm (Vermicelli with Tofu and Shrimp Paste)",
+    "category": "MAIN_COURSE",
+    "price_range": "35000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Rice vermicelli sheets",
+      "Fried tofu",
+      "Pure fermented shrimp paste",
+      "Young rice (cốm) sausage",
+      "Boiled pork leg",
+      "Vietnamese balm herb"
+    ],
+    "taste_profile": "Crispy outside, soft inside tofu, deeply savory and rich fermented shrimp paste",
+    "ai_search_tags": "lunch, hanging out, distinctive, savory, gathering, street food",
+    "detailed_description": "A bold yet perfectly balanced combination from Vietnamese street food culture. A generous tray comes with golden fried tofu, thinly sliced boiled pork, and fragrant young-rice sausage, all dipped into a frothy whipped fermented shrimp paste with kumquat and sizzling hot oil."
+  },
+  {
+    "dish_id": "MC04",
+    "name": "Cơm rang dưa bò (Fried Rice with Beef and Pickled Mustard)",
+    "category": "MAIN_COURSE",
+    "price_range": "45000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Day-old rice",
+      "Thinly sliced beef",
+      "Pickled mustard greens",
+      "Egg",
+      "Soy sauce",
+      "Minced garlic"
+    ],
+    "taste_profile": "Light and fluffy rice glossed with oil, tender beef, crunchy pickled mustard cuts the richness",
+    "ai_search_tags": "filling, lunch, savory, everyday, sizzling, office workers",
+    "detailed_description": "An ideal quick fix for a rushed lunch. The rice is fried light and fluffy, tinted golden by egg, and served with a side of richly savory beef stir-fried with pickled mustard, fragrant with garlic and soy sauce."
+  },
+  {
+    "dish_id": "MC05",
+    "name": "Xôi xéo (Turmeric Sticky Rice with Mung Bean)",
+    "category": "MAIN_COURSE",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Premium glutinous rice",
+      "Steamed mung bean",
+      "Fried shallots",
+      "Rendered pork fat oil",
+      "Lotus leaf"
+    ],
+    "taste_profile": "Chewy and dense rice, nutty rich mung bean, crispy fried shallots, fatty oil",
+    "ai_search_tags": "breakfast, filling, quick bite, budget-friendly, traditional, chewy and fragrant",
+    "detailed_description": "A simple breakfast treat with a beautiful golden hue from turmeric. A handful of dense, chewy sticky rice is topped with thin slices of pressed mung bean, finished with crispy fried shallots and a generous drizzle of rich pork fat oil."
+  },
+  {
+    "dish_id": "MC06",
+    "name": "Xôi khúc (Mugwort-Wrapped Sticky Rice Dumpling)",
+    "category": "MAIN_COURSE",
+    "price_range": "15000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Glutinous rice flour",
+      "Young khúc leaf",
+      "Mung bean",
+      "Fatty pork belly",
+      "Black pepper"
+    ],
+    "taste_profile": "Soft chewy sticky rice, deeply fragrant with khúc leaf and pepper, richly fatty filling",
+    "ai_search_tags": "winter, late night, street vendor calls, richly fatty, comforting, nostalgic",
+    "detailed_description": "The street call of 'Xôi khúc here...' echoing through narrow alleys is a familiar sound of Hanoi winters. The round sticky rice dumpling encases a fragrant dark-green khúc-leaf dough, with a rich pork and mung bean and pepper filling inside."
+  },
+  {
+    "dish_id": "MC07",
+    "name": "Bánh cuốn Thanh Trì (Thanh Trì Steamed Rice Rolls)",
+    "category": "MAIN_COURSE",
+    "price_range": "25000 - 40000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Plain rice flour",
+      "Wood ear fungus",
+      "Fried shallots",
+      "Vietnamese cinnamon sausage",
+      "Sweet and sour fish sauce",
+      "Coriander"
+    ],
+    "taste_profile": "Paper-thin sheets that slide smoothly, gently sweet fish sauce, deeply savory cinnamon sausage",
+    "ai_search_tags": "breakfast, refreshing, traditional, delicate, refined, light meal",
+    "detailed_description": "A renowned specialty of Thanh Trì village, known for its technique of rolling sheets as thin as paper. The rolls have no minced meat filling, just a touch of scallion oil and finely chopped wood ear fungus, served with slices of fragrant cinnamon sausage and a mildly sweet fish sauce."
+  },
+  {
+    "dish_id": "MC08",
+    "name": "Phở cuốn (Phở Noodle Rolls)",
+    "category": "MAIN_COURSE",
+    "price_range": "60000 - 80000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Whole-sheet flat rice noodle",
+      "Beef tenderloin",
+      "Coriander",
+      "Lettuce",
+      "Sweet and sour fish sauce",
+      "Garlic"
+    ],
+    "taste_profile": "Light and refreshing, cool, deeply savory stir-fried beef, fresh crunchy raw vegetables",
+    "ai_search_tags": "lunch, summer, light, change of pace, Ngu Xa, not heavy",
+    "detailed_description": "A relative latecomer that has quickly become a favorite light bite. A large sheet of rice noodle is rolled around hot, garlicky stir-fried beef and a generous mix of fresh greens, dipped in a sweet-and-sour fish sauce that perfectly cuts through any richness."
+  },
+  {
+    "dish_id": "MC09",
+    "name": "Nem rán (Chả giò) (Fried Spring Rolls)",
+    "category": "MAIN_COURSE",
+    "price_range": "40000 - 80000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Spring roll wrapper",
+      "Minced pork",
+      "Glass noodles",
+      "Wood ear fungus",
+      "Egg",
+      "Bean sprouts"
+    ],
+    "taste_profile": "Crispy shell, richly fatty mixed filling with natural sweetness, deeply savory",
+    "ai_search_tags": "festive feast, family, weekend, crispy, traditional, national dish",
+    "detailed_description": "A staple dish that's never absent from any Lunar New Year feast. The intricacy lies in mixing dozens of ingredients for the filling and rolling them tightly, then deep-frying in plenty of oil until the wrapper turns a crisp, eye-catching amber color."
+  },
+  {
+    "dish_id": "MC10",
+    "name": "Cháo sườn sụn (Cartilage Rib Rice Porridge)",
+    "category": "MAIN_COURSE",
+    "price_range": "25000 - 40000",
+    "place": "streetfood",
+    "ingredients": [
+      "Finely ground rice flour",
+      "Pork cartilage ribs",
+      "Crispy fried dough sticks",
+      "Pork floss",
+      "Black pepper",
+      "Chili powder"
+    ],
+    "taste_profile": "Cream-smooth porridge, crunchy cartilage, salty pork floss, lightly spicy",
+    "ai_search_tags": "late afternoon, breakfast, comforting, smooth, kid-friendly, winter",
+    "detailed_description": "Unlike regular whole-grain porridge, Hanoi-style cháo sườn is made from finely ground rice flour, resulting in a thick, smooth, almost cream-like texture. A spoonful with tender, crunchy cartilage rib, topped with crispy fried dough sticks and savory pork floss, is the ultimate comfort food."
+  },
+  {
+    "dish_id": "MC11",
+    "name": "Bún bò Nam Bộ (Southern-Style Beef Vermicelli Salad)",
+    "category": "MAIN_COURSE",
+    "price_range": "45000 - 70000",
+    "place": "streetfood",
+    "ingredients": [
+      "Loose rice vermicelli",
+      "Beef tenderloin",
+      "Boiled bean sprouts",
+      "Crushed roasted peanuts",
+      "Fried shallots",
+      "Sweet and sour fish sauce"
+    ],
+    "taste_profile": "Refreshingly sweet and sour, tender deeply savory beef, nutty roasted peanuts",
+    "ai_search_tags": "lunch, refreshing, summer, filling, not heavy, easy to eat",
+    "detailed_description": "Despite its Southern name, this mixed noodle dish is hugely popular on the capital's streets. The bowl is a harmony of colors and flavors: cool vermicelli, hot stir-fried beef, crunchy refreshing bean sprouts, all tossed in a gently sweet-and-sour fish sauce."
+  },
+  {
+    "dish_id": "MC12",
+    "name": "Xôi thịt kho trứng (Sticky Rice with Braised Pork and Egg)",
+    "category": "MAIN_COURSE",
+    "price_range": "30000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "White glutinous rice",
+      "Pork belly",
+      "Quail or chicken egg",
+      "Coconut milk",
+      "Liver pâté",
+      "Vietnamese sausage"
+    ],
+    "taste_profile": "Dense and chewy, fall-apart braised pork rendering fat, rich pâté",
+    "ai_search_tags": "breakfast, long-lasting fullness, savory, richly fatty, winter, filling",
+    "detailed_description": "A hearty choice for a long workday ahead. A steaming bowl of white sticky rice is drenched in thick braised pork sauce, served with melt-in-your-mouth braised pork belly and a piece of rich, nutty liver pâté."
+  },
+  {
+    "dish_id": "MC13",
+    "name": "Bò nướng chảo gang (Cast-Iron Pan Grilled Beef)",
+    "category": "MAIN_COURSE",
+    "price_range": "150000 - 250000",
+    "place": "streetfood",
+    "ingredients": [
+      "Marinated beef",
+      "Margarine",
+      "Enoki mushroom",
+      "Bread",
+      "Onion",
+      "Sweet potato"
+    ],
+    "taste_profile": "Fun sizzling sound, fragrant with butter, deeply savory sizzling-hot beef",
+    "ai_search_tags": "gathering, casual drinking, sizzling, richly fatty, weekend, street food",
+    "detailed_description": "A familiar, affordable grilled dish found on the old quarter's sidewalks. Ingredients are grilled directly on a cast-iron pan lined with foil and margarine, sizzling loudly and releasing an irresistible, mouthwatering aroma."
+  },
+  {
+    "dish_id": "MC14",
+    "name": "Lẩu ếch măng cay (Spicy Frog and Bamboo Shoot Hot Pot)",
+    "category": "MAIN_COURSE",
+    "price_range": "250000 - 400000",
+    "place": "restaurant",
+    "ingredients": [
+      "Field frog meat",
+      "Fresh bamboo shoots",
+      "Lá lốt leaf",
+      "Fried tofu skin",
+      "Chili satay",
+      "Loose rice vermicelli"
+    ],
+    "taste_profile": "Fiery spicy from chili satay, crunchy and gently sour bamboo shoots, chewy sweet frog meat",
+    "ai_search_tags": "gathering, dinner, fiery spicy, casual drinking, weekend, warming",
+    "detailed_description": "A bubbling hot pot with a striking red hue from chili satay that's instantly eye-catching. Firm, plump frog legs are pre-stir-fried with sour, crunchy bamboo shoots, then simmered in the hot pot to soak up the spices, making for a perfect dish to share with friends."
+  },
+  {
+    "dish_id": "MC15",
+    "name": "Ngan cháy tỏi (Garlic-Crisped Muscovy Duck)",
+    "category": "MAIN_COURSE",
+    "price_range": "150000 - 250000",
+    "place": "restaurant",
+    "ingredients": [
+      "Muscovy duck meat",
+      "Whole garlic cloves, fried crispy",
+      "Fresh ginger",
+      "Soy sauce",
+      "White wine",
+      "White sugar"
+    ],
+    "taste_profile": "Tender sweet, deeply marinated duck meat, nutty crispy fried garlic",
+    "ai_search_tags": "casual drinking, savory, fragrant, dinner, gathering, weekend",
+    "detailed_description": "A relatively new dish that has quickly taken Hanoi's food scene by storm. Richly marinated duck pieces are fried until golden and charred at the edges, then piled high with dozens of whole crispy fried garlic cloves, fragrant without any bitterness."
+  },
+  {
+    "dish_id": "ST21",
+    "name": "Bánh mì (Vietnamese Sandwich)",
+    "category": "STREET_FOOD",
+    "price_range": "20000 - 45000",
+    "place": "streetfood",
+    "ingredients": [
+      "Crispy baguette",
+      "Pâté",
+      "Mixed meats (char siu, ham)",
+      "Cucumber",
+      "Coriander",
+      "Pickled carrots and daikon",
+      "Egg",
+      "Mayonnaise"
+    ],
+    "taste_profile": "Crispy baguette, savory pâté, rich meats, fresh and crunchy vegetables, balanced sweet-and-sour pickles",
+    "ai_search_tags": "sandwich, breakfast, quick lunch, street food, budget-friendly, portable, iconic",
+    "detailed_description": "Banh Mi is a world-famous Vietnamese sandwich featuring a crispy, airy baguette sliced open and smeared with rich pâté and mayonnaise, then stuffed with various meats, fresh cucumber, coriander, and sweet-and-sour pickled vegetables for a perfect harmony of textures and flavors."
+  }
+]

@@ -1,0 +1,1313 @@
+[
+  {
+    "dish_id": "NS01",
+    "name": "Phở bò",
+    "category": "NOODLE_SOUP",
+    "price_range": "60000 - 80000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bánh phở",
+      "Thịt bò",
+      "Xương ống bò",
+      "Hoa hồi",
+      "Thảo quả",
+      "Quế"
+    ],
+    "taste_profile": "Ngọt thanh từ xương, đậm đà, thơm mùi gia vị mộc",
+    "ai_search_tags": "ăn sáng, mùa đông, ấm bụng, truyền thống, quốc dân, giải rượu",
+    "detailed_description": "Phở bò là tinh hoa ẩm thực thủ đô với nước dùng trong vắt được ninh cẩn thận từ xương ống bò trong nhiều giờ. Từng sợi phở mềm dai kết hợp cùng thịt bò thái mỏng và hành mùi tạo nên hương vị nức lòng thực khách."
+  },
+  {
+    "dish_id": "NS02",
+    "name": "Phở gà",
+    "category": "NOODLE_SOUP",
+    "price_range": "50000 - 70000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bánh phở",
+      "Thịt gà ta",
+      "Xương gà",
+      "Lá chanh",
+      "Gừng",
+      "Hành khô nướng"
+    ],
+    "taste_profile": "Thanh mát, nước dùng trong vắt, béo ngậy vị gà ta",
+    "ai_search_tags": "ăn sáng, nhẹ bụng, thanh tao, truyền thống, dễ tiêu, lá chanh",
+    "detailed_description": "Phở gà lôi cuốn bởi thứ nước dùng ngọt lịm từ xương gà ninh, lớp mỡ vàng óng ả nổi nhẹ trên bề mặt. Thịt gà ta giòn dai, thái miếng vừa ăn, điểm xuyết thêm chút lá chanh thái chỉ thơm lừng đúng điệu Hà Nội."
+  },
+  {
+    "dish_id": "NS03",
+    "name": "Bún ốc nguội",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Ốc nhồi",
+      "Giấm bỗng",
+      "Cà chua",
+      "Ớt chưng",
+      "Nước luộc ốc"
+    ],
+    "taste_profile": "Chua thanh, cay nồng, mát lạnh, giòn sật",
+    "ai_search_tags": "mùa hè, thanh mát, ăn vặt, chua cay, giải nhiệt, dạo phố",
+    "detailed_description": "Đây là món ăn mang đậm nét hoài cổ của người Hà Thành với phần nước dùng nguội, chua dịu vị giấm bỗng và cay xè của ớt chưng. Từng con ốc nhồi béo ngậy, giòn sật được chấm cùng bún rối mát lạnh, đánh tan cái nóng mùa hè."
+  },
+  {
+    "dish_id": "NS04",
+    "name": "Bún ốc nóng",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 55000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Ốc vặn",
+      "Ốc nhồi",
+      "Cà chua",
+      "Giấm bỗng",
+      "Tía tô"
+    ],
+    "taste_profile": "Đậm đà, chua dịu, thơm phức mùi tía tô và giấm bỗng",
+    "ai_search_tags": "mùa đông, ấm bụng, ăn sáng, chua thanh, dã ngoại, tụ tập",
+    "detailed_description": "Bún ốc nóng hấp dẫn với bát nước dùng sôi sục, chua thanh vị cà chua và giấm bỗng nếp. Ăn kèm là những con ốc luộc chín tới, rắc thêm chút tía tô và hành lá thái nhỏ tạo nên tổng thể hài hòa, ấm áp."
+  },
+  {
+    "dish_id": "NS05",
+    "name": "Bún riêu cua",
+    "category": "NOODLE_SOUP",
+    "price_range": "30000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Gạch cua đồng",
+      "Cà chua",
+      "Đậu phụ rán",
+      "Mắm tôm",
+      "Hành phi"
+    ],
+    "taste_profile": "Ngọt vị cua đồng, chua thanh, dậy mùi mắm tôm",
+    "ai_search_tags": "ăn sáng, thanh mát, dân dã, đậm đà, quà chiều, dễ ăn",
+    "detailed_description": "Một bát bún riêu đúng điệu nổi bật với mảng gạch cua đồng óng ánh, nước dùng chua thanh và đậu phụ rán vàng ươm. Để dậy lên hương vị đặc trưng, một chút mắm tôm nguyên chất là thứ gia vị không thể thiếu của người sành ăn."
+  },
+  {
+    "dish_id": "NS06",
+    "name": "Bún thang",
+    "category": "NOODLE_SOUP",
+    "price_range": "50000 - 100000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bún rối",
+      "Thịt gà xé",
+      "Giò lụa thái chỉ",
+      "Trứng tráng mỏng",
+      "Củ cải khô",
+      "Tôm nõn"
+    ],
+    "taste_profile": "Thanh nhã, ngọt dịu, cầu kỳ, tinh tế",
+    "ai_search_tags": "tinh tế, thanh tịnh, dịp lễ, đặc biệt, ăn sáng, tao nhã",
+    "detailed_description": "Được mệnh danh là 'bông hoa' của ẩm thực Hà Nội, bún thang đòi hỏi sự tỉ mỉ tột độ trong khâu chuẩn bị nguyên liệu thái chỉ. Nước dùng phải thật trong, ngọt thanh từ xương gà và tôm he, hòa quyện cùng chút tinh dầu cà cuống đặc biệt."
+  },
+  {
+    "dish_id": "NS07",
+    "name": "Bún cá",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Cá rô phi rán giòn",
+      "Rau cần",
+      "Cà chua",
+      "Xương cá",
+      "Thì là"
+    ],
+    "taste_profile": "Ngọt thanh vị cá, giòn rụm, chua dịu",
+    "ai_search_tags": "ăn trưa, đổi vị, đậm đà, mùa đông, bình dân, thơm lừng",
+    "detailed_description": "Bún cá Hà Nội hấp dẫn nhờ những miếng cá thái lát tẩm ướp đậm đà, chiên vàng giòn rụm không hề bị bở. Nước dùng ninh từ xương cá ngọt lịm, ăn kèm với rau cần hoặc rau cải xanh giòn sật rất bắt miệng."
+  },
+  {
+    "dish_id": "NS08",
+    "name": "Bún dọc mùng",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Dọc mùng",
+      "Móng giò",
+      "Thịt chân giò luộc",
+      "Nước hầm xương",
+      "Nghệ tươi"
+    ],
+    "taste_profile": "Thanh mát, giòn sật của mùng, béo ngậy móng giò",
+    "ai_search_tags": "thanh mát, ăn trưa, đầy đặn, quen thuộc, dễ tiêu, giòn sật",
+    "detailed_description": "Điểm nhấn của món ăn nằm ở những cọng dọc mùng tước vỏ cẩn thận, bóp muối khử ngứa, khi nhai có tiếng sần sật vui tai. Kết hợp cùng những khoanh móng giò mềm nhừ béo ngậy, món bún này dễ dàng làm hài lòng những thực khách khó tính."
+  },
+  {
+    "dish_id": "NS09",
+    "name": "Bún mọc",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 55000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Mọc nấm hương",
+      "Sườn non",
+      "Chả quế",
+      "Nước hầm xương",
+      "Hành phi"
+    ],
+    "taste_profile": "Ngọt thanh, mộc mạc, thơm lừng nấm hương",
+    "ai_search_tags": "ăn sáng, nhẹ nhàng, gia đình, mộc mạc, dễ ăn, ấm bụng",
+    "detailed_description": "Món bún giản dị nhưng chứa đựng sự tinh tế với những viên mọc giòn dai làm từ giò sống trộn nấm hương, mộc nhĩ thái nhỏ. Nước dùng ninh sườn non trong vắt, điểm xuyết thêm vài lát chả quế làm dậy lên hương vị mộc mạc khó cưỡng."
+  },
+  {
+    "dish_id": "NS10",
+    "name": "Bún ngan",
+    "category": "NOODLE_SOUP",
+    "price_range": "40000 - 65000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bún rối",
+      "Thịt ngan",
+      "Măng khô nứa",
+      "Hành lá",
+      "Mùi tàu",
+      "Nước hầm ngan"
+    ],
+    "taste_profile": "Đậm đà, béo ngậy, măng giòn, thơm mùi tàu",
+    "ai_search_tags": "ăn trưa, nhậu nhẹt, ăn đêm, tụ tập, đậm đà, no bụng",
+    "detailed_description": "Thịt ngan luộc chín tới, chắc thịt và mọng nước là linh hồn của bát bún. Điều làm nên sự khác biệt là thứ nước dùng ngọt lịm tiết ra từ việc luộc ngan, ăn kèm những sợi măng khô ninh nhừ ngấm vị đậm đà không thể chối từ."
+  },
+  {
+    "dish_id": "NS11",
+    "name": "Phở sốt vang",
+    "category": "NOODLE_SOUP",
+    "price_range": "45000 - 70000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bánh phở",
+      "Thịt nạm bò",
+      "Rượu vang đỏ",
+      "Quả gấc",
+      "Ngũ vị hương",
+      "Cà rốt"
+    ],
+    "taste_profile": "Đậm đà, béo ngậy, thoảng mùi rượu vang và ngũ vị hương",
+    "ai_search_tags": "mùa đông, ăn sáng, ấm bụng, đậm đà, ăn đêm, bổ dưỡng",
+    "detailed_description": "Phở sốt vang là sự giao thoa độc đáo giữa ẩm thực Pháp và Việt Nam. Thịt nạm bò được hầm nhừ với rượu vang và quả gấc tạo nên màu đỏ cam bắt mắt cùng hương vị béo ngậy, cực kỳ hợp cho những ngày Hà Nội trở gió."
+  },
+  {
+    "dish_id": "NS12",
+    "name": "Miến lươn nước",
+    "category": "NOODLE_SOUP",
+    "price_range": "40000 - 65000",
+    "place": "streetfood",
+    "ingredients": [
+      "Miến dong",
+      "Lươn đồng",
+      "Nước hầm xương lươn",
+      "Rau răm",
+      "Giá đỗ",
+      "Hành phi"
+    ],
+    "taste_profile": "Ngọt đậm vị lươn, thơm mùi rau răm, lươn giòn hoặc mềm",
+    "ai_search_tags": "ăn trưa, thanh mát, đặc sản, bổ dưỡng, rau răm, đổi vị",
+    "detailed_description": "Miến lươn nước chinh phục thực khách bằng phần nước dùng thanh cốt, ngọt đậm đà nhờ ninh hoàn toàn từ xương lươn giã nhỏ. Sợi miến dong dai ngon ăn kèm thịt lươn chiên giòn rụm hoặc lươn mềm xào lòng cùng rau răm thơm nồng."
+  },
+  {
+    "dish_id": "NS13",
+    "name": "Miến gà",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Miến dong",
+      "Thịt gà ta",
+      "Nước dùng gà",
+      "Mộc nhĩ",
+      "Nấm hương",
+      "Rau mùi"
+    ],
+    "taste_profile": "Thanh ngọt, nhẹ nhàng, thơm hương nấm",
+    "ai_search_tags": "ăn sáng, nhẹ bụng, thanh tao, dễ tiêu, ấm áp, truyền thống",
+    "detailed_description": "Một bát miến gà chuẩn vị mang lại cảm giác thanh nhẹ với nước dùng gà trong vắt, ít mỡ. Sợi miến dong dai dai kết hợp với thịt gà xé phay, mộc nhĩ, nấm hương giòn sật là lựa chọn hoàn hảo cho một bữa sáng thanh đạm."
+  },
+  {
+    "dish_id": "NS14",
+    "name": "Mì vằn thắn",
+    "category": "NOODLE_SOUP",
+    "price_range": "40000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Mì sợi tươi",
+      "Sủi cảo tôm thịt",
+      "Thịt xá xíu",
+      "Trứng luộc",
+      "Gan lợn",
+      "Hẹ"
+    ],
+    "taste_profile": "Ngọt đậm đà vị tôm khô, sợi mì dai, sủi cảo béo ngậy",
+    "ai_search_tags": "ăn tối, đầy đặn, no bụng, đậm đà, phố cổ, gia đình",
+    "detailed_description": "Mì vằn thắn Hà Nội có nước dùng ngọt lịm từ xương ống và vỏ tôm khô ninh kỹ. Bát mì đầy đặn với sợi mì tươi vàng óng, sủi cảo mềm tan, vài lát xá xíu, gan lợn và lá hẹ xanh mướt tạo nên sự hòa quyện tuyệt vời."
+  },
+  {
+    "dish_id": "NS15",
+    "name": "Bún sườn sụn",
+    "category": "NOODLE_SOUP",
+    "price_range": "35000 - 55000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Sườn sụn lợn",
+      "Cà chua",
+      "Dọc mùng",
+      "Nước hầm xương",
+      "Hành lá"
+    ],
+    "taste_profile": "Chua thanh, sườn sụn sần sật, nước dùng ngọt xương",
+    "ai_search_tags": "ăn sáng, ăn trưa, giòn sật, bình dân, dễ ăn, ấm bụng",
+    "detailed_description": "Món ăn gây nghiện bởi những miếng sườn sụn được ninh vừa tầm, giữ được độ giòn sần sật đặc trưng khi nhai. Nước dùng chua dịu nhẹ từ cà chua phối hợp với dọc mùng thanh mát làm cho bát bún cực kỳ đưa miệng."
+  },
+  {
+    "dish_id": "ST01",
+    "name": "Nem chua rán",
+    "category": "STREET_FOOD",
+    "price_range": "5000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Thịt lợn",
+      "Bì lợn",
+      "Thính gạo",
+      "Bột chiên xù",
+      "Tỏi",
+      "Ớt chưng"
+    ],
+    "taste_profile": "Béo ngậy, giòn rụm bên ngoài, dai mềm bên trong, vị ngọt nhẹ",
+    "ai_search_tags": "ăn vặt, vỉa hè, sinh viên, tụ tập, chiều tà, cay ngọt",
+    "detailed_description": "Nem chua rán là món ăn vặt quốc dân không thể thiếu của giới trẻ Hà Thành. Từng thanh nem lăn qua bột chiên xù, rán ngập dầu đến khi vàng ruộm, khi ăn chấm cùng tương ớt cay ngọt tạo nên hương vị béo ngậy, hấp dẫn."
+  },
+  {
+    "dish_id": "ST02",
+    "name": "Bánh tôm Hồ Tây",
+    "category": "STREET_FOOD",
+    "price_range": "30000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Tôm nước ngọt",
+      "Bột mì",
+      "Khoai lang",
+      "Nước mắm chua ngọt",
+      "Đu đủ xanh",
+      "Rau sống"
+    ],
+    "taste_profile": "Giòn rụm, ngọt vị tôm tươi, chua ngọt hài hòa",
+    "ai_search_tags": "chiều tà, dạo phố, Hồ Tây, tụ tập, giòn rụm, đặc sản",
+    "detailed_description": "Món ăn gắn liền với danh thắng Hồ Tây, nổi bật bởi lớp vỏ bánh làm từ bột mì mix khoai lang nạo sợi chiên giòn rụm. Bên trên là chú tôm nguyên vỏ ngọt thịt, cuộn tròn trong rau sống và chấm nước mắm đu đủ xanh giải ngấy."
+  },
+  {
+    "dish_id": "ST03",
+    "name": "Bánh gối",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Vỏ bánh mì",
+      "Thịt lợn băm",
+      "Miến",
+      "Mộc nhĩ",
+      "Trứng cút",
+      "Lạp xưởng"
+    ],
+    "taste_profile": "Vỏ giòn tan, nhân đậm đà thơm mùi tiêu, béo ngậy",
+    "ai_search_tags": "quà chiều, mùa đông, vỉa hè, sinh viên, ấm bụng, giòn tan",
+    "detailed_description": "Chiếc bánh được tạo hình giống chiếc gối nhỏ xinh với lớp vỏ bọc bằng bột mì chiên vàng ruộm, giòn tan. Phần nhân bên trong là sự tổng hòa của thịt băm, miến, mộc nhĩ và một quả trứng cút bùi bùi, ăn kèm nước chấm chua ngọt."
+  },
+  {
+    "dish_id": "ST04",
+    "name": "Bánh rán mặn",
+    "category": "STREET_FOOD",
+    "price_range": "8000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột gạo nếp",
+      "Bột gạo tẻ",
+      "Thịt lợn",
+      "Mộc nhĩ",
+      "Miến",
+      "Nước sốt tương ớt"
+    ],
+    "taste_profile": "Vỏ nếp dẻo giòn, nhân thịt đậm đà, sốt cay ngọt",
+    "ai_search_tags": "mùa đông, quà chiều, vỉa hè, dẻo giòn, ấm bụng, giá rẻ",
+    "detailed_description": "Khác với bánh rán ngọt, bánh rán mặn có phần vỏ nếp dẻo quánh được chiên giòn mặt ngoài, ôm trọn lấy khối nhân thịt băm mộc nhĩ thơm phức bên trong. Món này thường được cắt nhỏ vào bát, rưới thứ nước sốt sệt sệt chua cay mặn ngọt lên trên."
+  },
+  {
+    "dish_id": "ST05",
+    "name": "Bánh rán ngọt",
+    "category": "STREET_FOOD",
+    "price_range": "5000 - 8000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột gạo nếp",
+      "Đỗ xanh nhuyễn",
+      "Đường mật",
+      "Vừng trắng",
+      "Dừa nạo"
+    ],
+    "taste_profile": "Ngọt lịm, thơm mùi vừng, vỏ giòn ruộm bên ngoài",
+    "ai_search_tags": "ăn vặt, quà chiều, hảo ngọt, vỉa hè, sinh viên, hoài cổ",
+    "detailed_description": "Bánh rán ngọt gắn liền với ký ức tuổi thơ của nhiều người Hà Nội, gồm hai loại phổ biến là bánh rán đường và bánh rán mật. Lớp vỏ nếp bọc vừng giòn tan, bên trong là nhân đỗ xanh sên dừa ngọt bùi, xốp mềm."
+  },
+  {
+    "dish_id": "ST06",
+    "name": "Bánh đúc nóng",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột gạo",
+      "Thịt lợn băm",
+      "Mộc nhĩ",
+      "Hành khô",
+      "Nước mắm chua ngọt",
+      "Rau mùi"
+    ],
+    "taste_profile": "Mềm mướt, béo ngậy vị mỡ hành, đậm đà thịt băm",
+    "ai_search_tags": "mùa đông, xế chiều, ấm bụng, dẻo quánh, sinh viên, lót dạ",
+    "detailed_description": "Bánh đúc nóng là thức quà xế chiều hoàn hảo cho những ngày đông Hà Nội. Lớp bánh đúc dẻo quánh, nóng hổi được phủ lên trên lớp thịt băm mộc nhĩ xào đậm đà, chan ngập trong thứ nước mắm chua ngọt thanh thanh."
+  },
+  {
+    "dish_id": "ST07",
+    "name": "Nộm bò khô",
+    "category": "STREET_FOOD",
+    "price_range": "35000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Đu đủ xanh",
+      "Thịt bò khô",
+      "Gan bò sấy",
+      "Lạc rang",
+      "Rau thơm",
+      "Nước mắm chua ngọt"
+    ],
+    "taste_profile": "Giòn sật, chua ngọt, cay nồng, bùi béo vị lạc",
+    "ai_search_tags": "quà chiều, dạo phố, phố cổ, thanh mát, lai rai, chua ngọt",
+    "detailed_description": "Món ăn vỉa hè trứ danh trên phố Hoàn Kiếm với những sợi đu đủ xanh giòn rụm bào mỏng. Linh hồn của đĩa nộm nằm ở phần bò khô tẩm ướp cay nồng, gan sấy bùi béo trộn đều cùng nước mắm chua ngọt và lạc rang thơm nức."
+  },
+  {
+    "dish_id": "ST08",
+    "name": "Bánh giò",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 30000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột gạo tẻ",
+      "Bột năng",
+      "Thịt lợn băm",
+      "Mộc nhĩ",
+      "Hành khô",
+      "Lá chuối"
+    ],
+    "taste_profile": "Vỏ bánh núng nính, nhân thịt béo ngậy, thoảng hương lá chuối",
+    "ai_search_tags": "ăn sáng, quà chiều, núng nính, mềm mịn, ấm bụng, truyền thống",
+    "detailed_description": "Chiếc bánh hình chóp quen thuộc được gói tỉ mỉ trong lớp lá chuối xanh. Bóc lớp vỏ ra, phần bột bánh mềm mịn, núng nính lộ ra phần nhân thịt băm mộc nhĩ béo ngậy, tỏa hương thơm đặc trưng cực kỳ cuốn hút."
+  },
+  {
+    "dish_id": "ST09",
+    "name": "Lòng rán",
+    "category": "STREET_FOOD",
+    "price_range": "50000 - 150000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Lòng non lợn",
+      "Dạ dày lợn",
+      "Hành hoa",
+      "Mắm tôm",
+      "Rau húng quế",
+      "Chanh tươi"
+    ],
+    "taste_profile": "Giòn rụm bên ngoài, dai mềm bên trong, béo ngậy",
+    "ai_search_tags": "đi nhậu, lai rai, tụ tập, buổi tối, giòn rụm, bình dân",
+    "detailed_description": "Lòng non và dạ dày được sơ chế sạch sẽ, tẩm ướp đậm đà rồi chiên trong chảo ngập dầu đến khi vàng ruộm. Món này ăn kèm với bún lá, chấm mắm tôm đánh sủi bọt cùng rau húng quế thì quả là mồi bén cho những buổi chiều tụ tập."
+  },
+  {
+    "dish_id": "ST10",
+    "name": "Dồi sụn nướng",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 30000",
+    "place": "streetfood",
+    "ingredients": [
+      "Vỏ lòng non",
+      "Sụn lợn băm",
+      "Thịt nạc vai",
+      "Hành tây",
+      "Rau húng",
+      "Lạc rang"
+    ],
+    "taste_profile": "Thơm nức mũi, giòn sần sật vị sụn, đậm đà gia vị tẩm ướp",
+    "ai_search_tags": "ăn vặt, vỉa hè, thơm lừng, giòn sật, lai rai, xế chiều",
+    "detailed_description": "Những khúc dồi căng mọng được nướng xèo xèo trên bếp than hoa tỏa mùi thơm nức cả góc phố. Lớp vỏ dai dai bọc lấy phần nhân sụn giòn sần sật, trộn cùng thịt băm và các loại rau thơm tạo nên cảm giác vui miệng khi nhai."
+  },
+  {
+    "dish_id": "ST11",
+    "name": "Ốc luộc",
+    "category": "STREET_FOOD",
+    "price_range": "40000 - 80000",
+    "place": "streetfood",
+    "ingredients": [
+      "Ốc vặn",
+      "Ốc mít",
+      "Sả",
+      "Lá chanh",
+      "Gừng",
+      "Nước mắm gừng ớt"
+    ],
+    "taste_profile": "Ốc giòn béo, nước mắm mặn ngọt cay nồng vị sả gừng",
+    "ai_search_tags": "mùa đông, la cà, nói chuyện, cay nồng, tụ tập, vỉa hè",
+    "detailed_description": "Quán ốc vỉa hè là đặc sản văn hóa của người Hà Nội. Những con ốc mít, ốc vặn tươi rói được luộc chín tới cùng lá chanh và sả, khi ăn khêu ra chấm ngập trong bát nước mắm gừng ớt pha keo sánh mịn tuyệt hảo."
+  },
+  {
+    "dish_id": "ST12",
+    "name": "Nem chua nướng",
+    "category": "STREET_FOOD",
+    "price_range": "6000 - 12000",
+    "place": "streetfood",
+    "ingredients": [
+      "Nem chua sống",
+      "Tỏi",
+      "Ớt",
+      "Tương ớt ngọt",
+      "Lá ổi non",
+      "Quất"
+    ],
+    "taste_profile": "Vỏ xém vàng thơm phức, dai dẻo, vị chua cay mặn ngọt đan xen",
+    "ai_search_tags": "quà chiều, mùa đông, Ấu Triệu, dính răng, la cà, ấm áp",
+    "detailed_description": "Không chiên ngập dầu như nem rán, nem chua được nướng trực tiếp trên than hồng đến khi tươm mỡ và xém cạnh. Món ăn mang lại kết cấu dai dẻo dính răng, vị chua nhẹ lên men quyện với mùi khói xông lên cực kỳ kích thích vị giác."
+  },
+  {
+    "dish_id": "ST13",
+    "name": "Chim quay",
+    "category": "STREET_FOOD",
+    "price_range": "20000 - 45000",
+    "place": "streetfood",
+    "ingredients": [
+      "Chim cút",
+      "Ngũ vị hương",
+      "Mật ong",
+      "Mắc khén",
+      "Tỏi",
+      "Dầu ăn"
+    ],
+    "taste_profile": "Da giòn bóng bẩy, thịt mềm ngọt ngấm gia vị, thơm mùi mắc khén",
+    "ai_search_tags": "ăn tối, nhậu nhẹt, lai rai, đậm đà, vỉa hè, đặc sắc",
+    "detailed_description": "Những chú chim cút tẩm ướp ngũ vị hương và mật ong được quay vàng ươm, bóng bẩy tươm mỡ. Khi cắn vào, lớp da giòn tan vỡ ra để lộ phần thịt mềm ngọt bên trong, chấm cùng muối tiêu chanh ớt là chuẩn bài."
+  },
+  {
+    "dish_id": "ST14",
+    "name": "Bò pía ngọt",
+    "category": "STREET_FOOD",
+    "price_range": "5000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bánh tráng cuốn mềm",
+      "Kẹo mạch nha",
+      "Dừa nạo tươi",
+      "Vừng đen",
+      "Nước cốt dừa"
+    ],
+    "taste_profile": "Vỏ mỏng dai, kẹo giòn tan ngọt lịm, dừa tươi béo ngậy",
+    "ai_search_tags": "tuổi thơ, cổng trường, học sinh, ngọt lịm, đi bộ, hoài niệm",
+    "detailed_description": "Món quà vặt mộc mạc gắn liền với xe đạp gác thùng của các chú bán hàng rong trước cổng trường. Vỏ bánh tráng mỏng manh cuốn lấy thanh kẹo mạch nha giòn tan, thêm chút dừa nạo và vừng đen bùi bùi tạo nên vị ngọt ngào của tuổi thơ."
+  },
+  {
+    "dish_id": "ST15",
+    "name": "Bánh mì dân tổ",
+    "category": "STREET_FOOD",
+    "price_range": "25000 - 40000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bánh mì nướng",
+      "Trứng gà",
+      "Pate",
+      "Chả lụa",
+      "Xúc xích",
+      "Bơ thực vật"
+    ],
+    "taste_profile": "Nhân hỗn hợp xào nhuyễn béo ngậy, vỏ bánh mì giòn tan, đậm đà",
+    "ai_search_tags": "ăn đêm, cú đêm, xếp hàng, béo ngậy, hỗn hợp, giới trẻ",
+    "detailed_description": "Nổi tiếng là món ăn của những cú đêm Hà Nội, điểm nhấn của món này là phần nhân tả pì lù. Trứng, pate, chả, xúc xích được xào nhuyễn chung với nhau trong một chảo lớn tạo thành hỗn hợp sệt béo ngậy, kẹp vào ổ bánh mì giòn rụm."
+  },
+  {
+    "dish_id": "ST16",
+    "name": "Bít tết Hòe Nhai",
+    "category": "STREET_FOOD",
+    "price_range": "70000 - 120000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Thịt bò",
+      "Pate gan",
+      "Trứng ốp la",
+      "Khoai tây chiên",
+      "Bánh mì",
+      "Nước sốt tiêu đen"
+    ],
+    "taste_profile": "Béo ngậy vị pate, thịt bò xèo xèo mềm ngọt, sốt đậm đà",
+    "ai_search_tags": "ăn tối, sang chảnh bình dân, hẹn hò, ồn ào, xèo xèo, no bụng",
+    "detailed_description": "Khác với bít tết kiểu Âu, bít tết vỉa hè Hà Nội được phục vụ trên chiếc chảo gang nóng hổi, xèo xèo tươm mỡ. Một suất đầy đặn với thịt bò tẩm ướp đậm đà, trứng ốp la lòng đào, pate béo ngậy hòa quyện cùng nước sốt để chấm bánh mì."
+  },
+  {
+    "dish_id": "ST17",
+    "name": "Phở chiên phồng",
+    "category": "STREET_FOOD",
+    "price_range": "40000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bánh phở",
+      "Thịt bò",
+      "Rau cải ngồng",
+      "Nước sốt bò",
+      "Tỏi"
+    ],
+    "taste_profile": "Phở phồng giòn tan, thịt bò mềm xào tỏi, sốt sánh mịn",
+    "ai_search_tags": "ăn tối, tụ tập, giòn rụm, đậm đà, lạ miệng, Ngũ Xã",
+    "detailed_description": "Món ăn trứ danh khu phố Ngũ Xã với những miếng bánh phở vuông vức được chiên ngập dầu đến khi phồng to, giòn rụm. Phủ lên trên là lớp thịt bò xào rau cải ngồng xanh mướt, rưới ngập nước sốt sánh mịn đậm đà."
+  },
+  {
+    "dish_id": "ST18",
+    "name": "Trứng vịt lộn tần ngải cứu",
+    "category": "STREET_FOOD",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Trứng vịt lộn",
+      "Rau ngải cứu",
+      "Gói gia vị thuốc bắc",
+      "Gừng tươi",
+      "Bột canh"
+    ],
+    "taste_profile": "Đậm đà vị thuốc bắc, ngải cứu nhặng đắng, trứng bùi béo",
+    "ai_search_tags": "ăn đêm, bổ dưỡng, ấm bụng, mùa đông, giải cảm, bình dân",
+    "detailed_description": "Món ăn đêm vừa dân dã vừa bổ dưỡng của người Hà Nội. Trứng vịt lộn được hầm kỹ cùng rau ngải cứu non và các vị thuốc bắc, tạo ra thứ nước dùng màu sậm, nhặng đắng nhưng hậu vị lại cực kỳ ngọt và ấm áp."
+  },
+  {
+    "dish_id": "ST19",
+    "name": "Quẩy nóng",
+    "category": "STREET_FOOD",
+    "price_range": "10000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột mì",
+      "Bột nở",
+      "Nước mắm chua ngọt",
+      "Đu đủ xanh",
+      "Ớt tươi"
+    ],
+    "taste_profile": "Giòn xốp bên ngoài, rỗng ruột, chua ngọt hài hòa",
+    "ai_search_tags": "mùa đông, ăn vặt, xế chiều, giòn tan, vỉa hè, sinh viên",
+    "detailed_description": "Cứ độ gió mùa về, những hàng quẩy nóng lại tấp nập khách. Từng dải bột được thả vào chảo mỡ sôi sùng sục, nở bung xốp và vàng ươm, cắt nhỏ ra chấm cùng bát nước mắm chua ngọt đu đủ xanh thì không gì bằng."
+  },
+  {
+    "dish_id": "ST20",
+    "name": "Thịt xiên nướng",
+    "category": "STREET_FOOD",
+    "price_range": "8000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Thịt nạc vai lợn",
+      "Sả",
+      "Hành tím",
+      "Mật ong",
+      "Vừng trắng"
+    ],
+    "taste_profile": "Thơm nức mùi sả, thịt xém cạnh bóng mỡ, ngọt vị mật ong",
+    "ai_search_tags": "cổng trường, tan tầm, thơm lừng, ăn vặt, dạo phố, lai rai",
+    "detailed_description": "Bất cứ cổng trường hay góc phố nào vào giờ tan tầm cũng dễ dàng bắt gặp làn khói mờ ảo thơm nức mũi của hàng thịt xiên. Thịt nạc vai giắt chút mỡ được ướp đẫm sả, hành và mật ong, nướng xém cạnh ăn không hoặc kẹp bánh mì đều ngon."
+  },
+  {
+    "dish_id": "DD01",
+    "name": "Cà phê trứng",
+    "category": "DRINK_DESSERT",
+    "price_range": "30000 - 50000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Cà phê Robusta",
+      "Lòng đỏ trứng gà",
+      "Sữa đặc",
+      "Mật ong",
+      "Bột cacao"
+    ],
+    "taste_profile": "Béo ngậy kem trứng xốp mịn, đắng nhẹ cà phê, không hề tanh",
+    "ai_search_tags": "hẹn hò, phố cổ, buổi sáng, nhâm nhi, đặc sản, béo ngậy",
+    "detailed_description": "Thức uống sáng tạo bậc nhất của Hà Nội với lớp kem trứng đánh bông xốp mịn màng nổi lên trên nền cà phê đen đậm đặc. Bí quyết nằm ở cách xử lý lòng đỏ trứng tinh tế, khiến ly cà phê béo ngậy, ngọt ngào mà tuyệt nhiên không có vị tanh."
+  },
+  {
+    "dish_id": "DD02",
+    "name": "Nước sấu đá",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Quả sấu tươi",
+      "Đường kính",
+      "Gừng tươi",
+      "Nước lọc",
+      "Đá viên"
+    ],
+    "taste_profile": "Chua thanh dịu, ngọt mát, thoảng hương gừng cay nhẹ",
+    "ai_search_tags": "mùa hè, giải khát, dạo phố, thanh mát, vỉa hè, tuổi thơ",
+    "detailed_description": "Ly nước mộc mạc lưu giữ trọn vẹn hương vị mùa hè thủ đô. Những quả sấu giòn sần sật ngâm ngấm đường, chắt lấy nước cốt pha cùng đá lạnh và vài lát gừng, mang đến sự thanh mát, giải nhiệt ngay tức thì."
+  },
+  {
+    "dish_id": "DD03",
+    "name": "Trà chanh",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Trà mạn",
+      "Chanh tươi",
+      "Đường kính",
+      "Mật ong",
+      "Đá lạnh"
+    ],
+    "taste_profile": "Chát nhẹ vị trà, chua ngọt hài hòa, thơm tinh dầu vỏ chanh",
+    "ai_search_tags": "chém gió, tụ tập, vỉa hè, nhà thờ lớn, giải nhiệt, buổi tối",
+    "detailed_description": "Văn hóa 'trà chanh chém gió' đã trở thành đặc sản phi vật thể của giới trẻ Hà Nội. Hương vị không quá cầu kỳ, chỉ là sự kết hợp giữa trà mạn chát nhẹ, vị chua thanh của chanh tươi và độ ngọt dịu của đường đá, tạo nên thức uống giải khát quốc dân."
+  },
+  {
+    "dish_id": "DD04",
+    "name": "Trà đá vỉa hè",
+    "category": "DRINK_DESSERT",
+    "price_range": "3000 - 5000",
+    "place": "streetfood",
+    "ingredients": [
+      "Trà xanh sấy khô",
+      "Nước sôi",
+      "Đá viên",
+      "Lá dứa (tùy chọn)"
+    ],
+    "taste_profile": "Chát đậm đà ở đầu lưỡi, ngọt hậu thanh tao, mát lạnh",
+    "ai_search_tags": "bình dân, sau bữa ăn, la cà, nói chuyện, giải khát, rẻ tiền",
+    "detailed_description": "Dù nắng hay mưa, những quán trà đá dưới gốc cây bàng rụng lá luôn nhộn nhịp. Một cốc trà pha loãng, thêm vài viên đá cuội trong veo là đủ để mở đầu cho muôn vàn câu chuyện đời thường của người dân thủ đô."
+  },
+  {
+    "dish_id": "DD05",
+    "name": "Chè sen nhãn lồng",
+    "category": "DRINK_DESSERT",
+    "price_range": "20000 - 35000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Hạt sen tươi",
+      "Nhãn lồng Hưng Yên",
+      "Đường phèn",
+      "Hoa nhài",
+      "Nước lọc"
+    ],
+    "taste_profile": "Ngọt thanh vị đường phèn, nhãn giòn sần sật, sen bùi bở",
+    "ai_search_tags": "mùa hè, thanh tao, giải nhiệt, bổ dưỡng, truyền thống, dịu mát",
+    "detailed_description": "Món chè thanh tao thể hiện sự khéo léo của người phụ nữ Tràng An. Hạt sen bở tơi được lồng gọn gàng vào trong cùi nhãn dày cùi, giòn mọng nước, chan nước đường phèn ướp hoa nhài trong vắt, ngọt dịu nhẹ."
+  },
+  {
+    "dish_id": "DD06",
+    "name": "Chè khúc bạch",
+    "category": "DRINK_DESSERT",
+    "price_range": "25000 - 40000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bột Gelatin",
+      "Sữa tươi không đường",
+      "Kem whipping",
+      "Hạnh nhân lát",
+      "Nhãn tươi",
+      "Đường phèn"
+    ],
+    "taste_profile": "Ngọt dịu, khúc bạch núng nính tan trong miệng, bùi béo hạnh nhân",
+    "ai_search_tags": "giải nhiệt, mùa hè, sang chảnh, thanh mát, tráng miệng, hảo ngọt",
+    "detailed_description": "Từng làm mưa làm gió trong giới trẻ, chè khúc bạch quyến rũ bởi những viên phô mai sữa núng nính, mềm tan. Bát chè thêm phần hấp dẫn với nước đường phèn thanh mát, cùi nhãn giòn và lớp hạnh nhân thái lát rang vàng thơm phức."
+  },
+  {
+    "dish_id": "DD07",
+    "name": "Tào phớ hoa nhài",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Hạt đậu nành",
+      "Đường hoa mai",
+      "Hoa nhài tươi",
+      "Thạch đen",
+      "Trân châu"
+    ],
+    "taste_profile": "Mềm mịn lướt qua cổ họng, ngọt thanh, thơm ngát hoa nhài",
+    "ai_search_tags": "mùa hè, thanh mát, dịu nhẹ, ăn vặt, dạo phố, truyền thống",
+    "detailed_description": "Tiếng rao 'Ai phớ đê...' văng vẳng là âm thanh quen thuộc một thời. Những lát tào phớ trắng muốt, hớt mỏng tang chan ngập thứ nước đường hoa mai màu cánh gián, ướp đẫm hương hoa nhài tinh khiết xua tan mọi mỏi mệt."
+  },
+  {
+    "dish_id": "DD08",
+    "name": "Sữa chua dẻo",
+    "category": "DRINK_DESSERT",
+    "price_range": "20000 - 30000",
+    "place": "streetfood",
+    "ingredients": [
+      "Sữa chua lên men tự nhiên",
+      "Bột gelatin",
+      "Sữa đặc",
+      "Cacao bột",
+      "Trái cây tươi"
+    ],
+    "taste_profile": "Chua ngọt dịu nhẹ, dẻo xốp quánh mịn, đắng nhẹ vị cacao",
+    "ai_search_tags": "tráng miệng, quà chiều, hẹn hò, thanh mát, dễ tiêu, dạo phố",
+    "detailed_description": "Không lỏng như sữa chua thường cũng không cứng như đá, sữa chua dẻo có kết cấu đặc quánh, cắt thành từng khối vuông vức. Phủ lên trên thường là một lớp bột cacao đắng nhẹ hoặc trái cây tươi xắt hạt lựu vô cùng bắt mắt."
+  },
+  {
+    "dish_id": "DD09",
+    "name": "Kem Tràng Tiền",
+    "category": "DRINK_DESSERT",
+    "price_range": "10000 - 15000",
+    "place": "streetfood",
+    "ingredients": [
+      "Sữa tươi",
+      "Đường kính",
+      "Cốm xanh",
+      "Đậu xanh",
+      "Sữa đặc"
+    ],
+    "taste_profile": "Ngọt lịm, dẻo thơm vị cốm, bùi bùi đậu xanh, mát lạnh",
+    "ai_search_tags": "đi bộ, dạo hồ Gươm, mùa hè, hoài niệm, đứng ăn, tuổi thơ",
+    "detailed_description": "Đến bờ Hồ mà chưa đứng ăn một que kem Tràng Tiền thì coi như chưa tới Hà Nội. Không bàn ghế, khách hàng cứ đứng sát nhau nhâm nhi hương vị dẻo thơm của kem cốm hay kem đậu xanh, tạo nên nét văn hóa đặc sắc không đâu có."
+  },
+  {
+    "dish_id": "DD10",
+    "name": "Cà phê cốt dừa",
+    "category": "DRINK_DESSERT",
+    "price_range": "35000 - 55000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Cà phê pha phin",
+      "Nước cốt dừa",
+      "Sữa đặc",
+      "Đá xay nhuyễn",
+      "Dừa khô"
+    ],
+    "taste_profile": "Đắng gắt của cà phê quyện vị béo ngậy, mát lạnh sảng khoái của dừa",
+    "ai_search_tags": "hẹn hò, la cà, béo ngậy, giải nhiệt, tỉnh táo, làm việc",
+    "detailed_description": "Một biến tấu hiện đại rất được lòng giới trẻ. Lớp tuyết cốt dừa sữa đặc xay nhuyễn trắng muốt được rót từ từ lớp cà phê phin đen nhánh lên trên, tạo ra hiệu ứng loang màu đẹp mắt cùng hương vị đắng - béo hòa quyện đê mê."
+  },
+  {
+    "dish_id": "SP01",
+    "name": "Cốm làng Vòng",
+    "category": "SPECIALTY",
+    "price_range": "200000 - 250000",
+    "place": "streetfood",
+    "ingredients": [
+      "Lúa nếp cái hoa vàng non",
+      "Lá sen tươi",
+      "Lá ráy",
+      "Dây rơm lúa nếp"
+    ],
+    "taste_profile": "Ngọt dịu, dẻo thơm hương lúa non, thoảng vị thanh tao của lá sen",
+    "ai_search_tags": "mùa thu, làm quà, tao nhã, truyền thống, nhâm nhi, trà chiều",
+    "detailed_description": "Thức quà gói trọn mùa thu Hà Nội. Những hạt cốm dẹt, xanh mướt được giã tay tỉ mỉ từ lúa nếp non, bọc cẩn thận trong hai lớp: lớp lá ráy giữ ẩm và lớp lá sen thơm ngát, buộc ngoài bằng sợi rơm vàng óng."
+  },
+  {
+    "dish_id": "SP02",
+    "name": "Ô mai",
+    "category": "SPECIALTY",
+    "price_range": "50000 - 150000",
+    "place": "streetfood",
+    "ingredients": [
+      "Quả mơ tươi",
+      "Đường kính",
+      "Muối tinh",
+      "Gừng tươi tơi sợi",
+      "Cam thảo"
+    ],
+    "taste_profile": "Chua mặn ngọt đan xen hài hòa, cay nồng ấm áp vị gừng",
+    "ai_search_tags": "làm quà, ăn vặt, nhâm nhi, Hàng Đường, truyền thống, chua cay",
+    "detailed_description": "Con phố Hàng Đường nức tiếng bởi những hộp ô mai tinh xảo. Từ vô vàn loại trái cây, qua bàn tay ướp tẩm đường, gừng, cam thảo, phơi sấy kỹ lưỡng, đã tạo ra thức quà nhâm nhi chua ngọt, đánh thức mọi giác quan."
+  },
+  {
+    "dish_id": "SP03",
+    "name": "Trà sen Tây Hồ",
+    "category": "SPECIALTY",
+    "price_range": "500000 - 1000000",
+    "place": "restaurant",
+    "ingredients": [
+      "Trà Tân Cương thượng hạng",
+      "Hoa sen Bách Diệp Tây Hồ",
+      "Lá sen tươi",
+      "Gạo sen"
+    ],
+    "taste_profile": "Chát dịu thanh tao, hậu ngọt sâu, ngát hương sen tinh khiết",
+    "ai_search_tags": "biếu tặng, cao cấp, thanh tịnh, thưởng trà, tao nhã, đặc sản",
+    "detailed_description": "Được mệnh danh là 'thiên cổ đệ nhất trà', người nghệ nhân phải dùng hàng ngàn bông sen Bách Diệp hái từ sớm tinh sương để ướp ra một lạng trà. Hương sen quyện vào từng cánh trà tạo nên phẩm vị cao quý, thanh tịnh."
+  },
+  {
+    "dish_id": "SP04",
+    "name": "Bánh cốm",
+    "category": "SPECIALTY",
+    "price_range": "5000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Cốm tươi",
+      "Đậu xanh nghiền",
+      "Đường trắng",
+      "Dừa sợi nạo",
+      "Nước hoa bưởi"
+    ],
+    "taste_profile": "Dẻo quánh vỏ cốm xanh, nhân đỗ xanh ngọt bùi, thoảng hương hoa bưởi",
+    "ai_search_tags": "làm quà, cưới hỏi, truyền thống, Hàng Than, ngọt ngào, dẻo thơm",
+    "detailed_description": "Là lễ vật không thể thiếu trong các mâm quả cưới hỏi của người Bắc. Vỏ bánh làm từ cốm dẻo quánh màu xanh ngọc bích ôm lấy phần nhân đỗ xanh sên dừa ngọt bùi, vương vấn hương nước hoa bưởi thoang thoảng."
+  },
+  {
+    "dish_id": "SP05",
+    "name": "Bánh chả",
+    "category": "SPECIALTY",
+    "price_range": "30000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột mì",
+      "Mỡ lợn phần",
+      "Lá chanh tươi",
+      "Đường kính",
+      "Lạp xưởng"
+    ],
+    "taste_profile": "Vỏ giòn rụm, béo ngậy vị mỡ lợn, thơm lừng mùi lá chanh",
+    "ai_search_tags": "trà chiều, mùa đông, làm quà, béo ngậy, truyền thống, nhâm nhi",
+    "detailed_description": "Chiếc bánh nướng nhỏ xíu xiu chứa đựng cả một bầu trời ký ức. Lớp vỏ bột mì nướng giòn rụm bọc lấy nhân mỡ lợn thái hạt lựu trộn lạp xưởng và lá chanh, khi ăn béo ngậy, cực kỳ hợp cạ khi uống cùng trà mạn nóng."
+  },
+  {
+    "dish_id": "SP06",
+    "name": "Bánh khảo",
+    "category": "SPECIALTY",
+    "price_range": "30000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột nếp rang",
+      "Đường kính",
+      "Mỡ lợn phần",
+      "Mứt bí",
+      "Hương hoa bưởi"
+    ],
+    "taste_profile": "Ngọt sắc, xốp mịn tan trong miệng, béo ngậy vị mỡ phần",
+    "ai_search_tags": "ngày Tết, truyền thống, làm quà, nhâm nhi, trà xanh, mâm cỗ",
+    "detailed_description": "Thức bánh mộc mạc làm từ bột nếp rang chín tinh khiết. Lớp vỏ xốp mịn, ngọt ngào ôm lấy phần nhân mứt bí và mỡ lợn béo ngậy, cắn một miếng tan ngay trên đầu lưỡi cùng hương hoa bưởi vương vấn."
+  },
+  {
+    "dish_id": "SP07",
+    "name": "Giò chả Ước Lễ",
+    "category": "SPECIALTY",
+    "price_range": "200000 - 300000",
+    "place": "streetfood",
+    "ingredients": [
+      "Thịt lợn mông sấn",
+      "Nước mắm cốt nguyên chất",
+      "Lá chuối tây",
+      "Tiêu đen",
+      "Bột năng"
+    ],
+    "taste_profile": "Thơm mùi lá chuối luộc, giòn sật, ngọt lịm vị thịt tươi",
+    "ai_search_tags": "ngày Tết, biếu tặng, gia đình, mâm cỗ, truyền thống, đậm đà",
+    "detailed_description": "Thương hiệu giò chả lâu đời nức tiếng thủ đô. Miếng giò lụa cắt ra có màu hồng nhạt, lấm tấm lỗ rỗ (dấu hiệu giò không hàn the), khi nhai thấy rõ độ giòn sật và vị ngọt tiết ra từ thịt tươi giã tay."
+  },
+  {
+    "dish_id": "SP08",
+    "name": "Chè lam",
+    "category": "SPECIALTY",
+    "price_range": "25000 - 45000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột nếp rang",
+      "Mật mía",
+      "Gừng tươi",
+      "Lạc rang",
+      "Mạch nha"
+    ],
+    "taste_profile": "Ngọt lịm mật mía, cay nồng vị gừng, dẻo dai bùi béo",
+    "ai_search_tags": "mùa đông, ấm áp, nhâm nhi, làm quà, trà chiều, dân dã",
+    "detailed_description": "Chè lam là thức quà quê ấm áp cho những ngày đông giá rét. Thanh chè lam dẻo quánh, mang màu nâu óng của mật mía, điểm xuyết những hạt lạc rang bùi bùi và thoảng vị cay nồng đặc trưng của gừng tươi."
+  },
+  {
+    "dish_id": "SP09",
+    "name": "Sấu ngâm",
+    "category": "SPECIALTY",
+    "price_range": "60000 - 100000",
+    "place": "streetfood",
+    "ingredients": [
+      "Quả sấu già",
+      "Đường kính",
+      "Gừng tươi",
+      "Phèn chua",
+      "Muối tinh"
+    ],
+    "taste_profile": "Chua chua, ngọt ngọt, quả sấu giòn sần sật không bị mềm",
+    "ai_search_tags": "mùa hè, giải khát, tự làm, biếu tặng, chua ngọt, thanh mát",
+    "detailed_description": "Những lọ sấu ngâm đường là hình ảnh quen thuộc trong góc bếp của người Hà Nội mỗi độ hè về. Quả sấu được cạo vỏ băm xoáy, ngâm ngấm đường và gừng, giữ được độ giòn tan, pha nước đá uống cực kỳ đã khát."
+  },
+  {
+    "dish_id": "SP10",
+    "name": "Bánh phu thê (Bánh xu xê)",
+    "category": "SPECIALTY",
+    "price_range": "6000 - 10000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột lọc (bột năng)",
+      "Đậu xanh",
+      "Dừa nạo sợi",
+      "Hạt sen",
+      "Hoa dành dành"
+    ],
+    "taste_profile": "Vỏ dẻo dai sần sật vị dừa, nhân đỗ xanh ngọt bùi",
+    "ai_search_tags": "cưới hỏi, làm quà, Hàng Than, ngọt bùi, dẻo dai, hạnh phúc",
+    "detailed_description": "Món bánh biểu tượng cho sự thủy chung, viên mãn trong lễ cưới hỏi. Lớp vỏ bánh màu vàng óng ả, dẻo trong suốt lấp ló những sợi dừa nạo giòn sật, ôm lấy nhân đậu xanh hạt sen ngọt bùi tao nhã."
+  },
+  {
+    "dish_id": "MC01",
+    "name": "Chả cá Lã Vọng",
+    "category": "MAIN_COURSE",
+    "price_range": "150000 - 250000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Cá lăng tươi",
+      "Mắm tôm",
+      "Mẻ",
+      "Củ riềng",
+      "Hành lá",
+      "Thì là",
+      "Lạc rang"
+    ],
+    "taste_profile": "Cá nướng thơm lừng mùi mẻ riềng, béo ngậy, ngấm vị mắm tôm",
+    "ai_search_tags": "tiếp khách, đặc sản, cuối tuần, đậm đà, sang trọng, gia đình",
+    "detailed_description": "Một trong những món ăn trứ danh mang tên chính một con phố ở Hà Nội. Những miếng thịt cá lăng tẩm ướp riềng mẻ được nướng xém vàng, sau đó đảo đều trên chảo dầu sôi sục cùng hành thì là, ăn kèm bún và lạc rang bùi béo."
+  },
+  {
+    "dish_id": "MC02",
+    "name": "Bún chả",
+    "category": "MAIN_COURSE",
+    "price_range": "50000 - 100000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Thịt lợn ba chỉ",
+      "Thịt lợn băm",
+      "Bún rối",
+      "Nước mắm chua ngọt",
+      "Đu đủ xanh",
+      "Rau sống"
+    ],
+    "taste_profile": "Thịt nướng xém khói, nước chấm chua ngọt hài hòa, thanh mát",
+    "ai_search_tags": "ăn trưa, quốc dân, đậm đà, no bụng, nổi tiếng, truyền thống",
+    "detailed_description": "Món ăn quốc dân đã làm say lòng bao thực khách. Những miếng chả miếng và chả băm được nướng xèo xèo trên than hoa, tỏa khói thơm nức, ngâm mình trong bát nước mắm chua ngọt âm ấm điểm xuyết đu đủ xanh giòn sật."
+  },
+  {
+    "dish_id": "MC03",
+    "name": "Bún đậu mắm tôm",
+    "category": "MAIN_COURSE",
+    "price_range": "35000 - 60000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún lá",
+      "Đậu phụ rán",
+      "Mắm tôm nguyên chất",
+      "Chả cốm",
+      "Thịt chân giò luộc",
+      "Rau kinh giới"
+    ],
+    "taste_profile": "Đậu giòn rụm bên ngoài mềm bên trong, mắm tôm đậm đà ngậy mỡ",
+    "ai_search_tags": "ăn trưa, la cà, đặc trưng, đậm đà, tụ tập, vỉa hè",
+    "detailed_description": "Sự kết hợp táo bạo nhưng hoàn hảo của ẩm thực đường phố. Mẹt bún đầy đặn với đậu rán vàng giòn, thịt luộc mỏng thái, chả cốm dẻo thơm, tất cả đều được chấm đẫm vào bát mắm tôm đánh bông sủi bọt cùng quất và mỡ sôi."
+  },
+  {
+    "dish_id": "MC04",
+    "name": "Cơm rang dưa bò",
+    "category": "MAIN_COURSE",
+    "price_range": "45000 - 60000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Cơm để nguội",
+      "Thịt bò thái mỏng",
+      "Dưa cải chua",
+      "Trứng gà",
+      "Xì dầu",
+      "Tỏi băm"
+    ],
+    "taste_profile": "Hạt cơm tơi xốp bóng mỡ, thịt bò mềm, dưa chua giòn giải ngấy",
+    "ai_search_tags": "no bụng, ăn trưa, đậm đà, bình dân, xèo xèo, văn phòng",
+    "detailed_description": "Lựa chọn cứu đói lý tưởng cho những bữa trưa vội vã. Cơm được đảo tơi xốp, nhuộm màu vàng óng của trứng, ăn kèm đĩa thịt bò xào dưa chua đậm đà, thơm nức mùi tỏi và xì dầu."
+  },
+  {
+    "dish_id": "MC05",
+    "name": "Xôi xéo",
+    "category": "MAIN_COURSE",
+    "price_range": "15000 - 25000",
+    "place": "streetfood",
+    "ingredients": [
+      "Gạo nếp cái hoa vàng",
+      "Đậu xanh đồ chín",
+      "Hành tím phi",
+      "Mỡ nước",
+      "Lá sen"
+    ],
+    "taste_profile": "Xôi dẻo quánh, đậu xanh bùi béo, hành phi giòn tan, ngậy mỡ",
+    "ai_search_tags": "ăn sáng, chắc dạ, vội vã, rẻ tiền, truyền thống, dẻo thơm",
+    "detailed_description": "Thức quà sáng bình dị với màu vàng ươm đẹp mắt từ nghệ. Nắm xôi dẻo quánh được thái lên những lát đỗ xanh nắm chặt tay mỏng tang, rắc thêm nắm hành phi giòn rụm và rưới đẫm thìa mỡ nước béo ngậy."
+  },
+  {
+    "dish_id": "MC06",
+    "name": "Xôi khúc",
+    "category": "MAIN_COURSE",
+    "price_range": "15000 - 20000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột nếp",
+      "Lá khúc non",
+      "Đậu xanh",
+      "Thịt ba chỉ mỡ",
+      "Hạt tiêu đen"
+    ],
+    "taste_profile": "Dẻo mướt nếp, thơm nồng mùi lá khúc và hạt tiêu, béo ngậy nhân thịt",
+    "ai_search_tags": "mùa đông, ăn đêm, rao vặt, béo ngậy, ấm bụng, hoài niệm",
+    "detailed_description": "Tiếng rao 'Xôi khúc đây...' len lỏi trong những ngõ nhỏ là âm thanh quen thuộc của mùa đông Hà Nội. Viên xôi tròn lẳn bọc nếp bên ngoài, ẩn chứa lớp bột lá khúc xanh thẫm thơm nồng và phần nhân thịt đỗ xanh hạt tiêu béo ngậy."
+  },
+  {
+    "dish_id": "MC07",
+    "name": "Bánh cuốn Thanh Trì",
+    "category": "MAIN_COURSE",
+    "price_range": "25000 - 40000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bột gạo tẻ",
+      "Mộc nhĩ",
+      "Hành phi",
+      "Chả quế",
+      "Nước mắm chua ngọt",
+      "Rau mùi"
+    ],
+    "taste_profile": "Lá bánh mỏng tang trơn tuột, nước mắm thanh dịu, chả quế đậm đà",
+    "ai_search_tags": "ăn sáng, thanh mát, truyền thống, mỏng mịn, tinh tế, nhẹ bụng",
+    "detailed_description": "Đặc sản nức tiếng của làng Thanh Trì với kỹ thuật tráng mỏng tang như tờ giấy. Bánh không có nhân thịt băm, chỉ phớt chút mỡ hành, điểm xuyết mộc nhĩ vụn, ăn kèm những lát chả quế thơm lừng và nước mắm pha thanh dịu."
+  },
+  {
+    "dish_id": "MC08",
+    "name": "Phở cuốn",
+    "category": "MAIN_COURSE",
+    "price_range": "60000 - 80000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bánh phở nguyên tấm",
+      "Thịt bò thăn",
+      "Rau mùi",
+      "Xà lách",
+      "Nước mắm chua ngọt",
+      "Tỏi"
+    ],
+    "taste_profile": "Thanh đạm, mát mẻ, thịt bò xào đậm đà, rau sống tươi giòn",
+    "ai_search_tags": "ăn trưa, mùa hè, thanh đạm, đổi vị, Ngũ Xã, không ngấy",
+    "detailed_description": "Sinh sau đẻ muộn nhưng phở cuốn nhanh chóng trở thành món lai rai được yêu thích. Tấm bánh phở to bản cuộn tròn lấy thịt bò xào tỏi nóng hổi và vô vàn loại rau sống xanh mướt, chấm cùng nước mắm chua ngọt giải ngấy tuyệt đối."
+  },
+  {
+    "dish_id": "MC09",
+    "name": "Nem rán (Chả giò)",
+    "category": "MAIN_COURSE",
+    "price_range": "40000 - 80000",
+    "place": [
+      "streetfood",
+      "restaurant"
+    ],
+    "ingredients": [
+      "Bánh đa nem",
+      "Thịt lợn băm",
+      "Miến",
+      "Mộc nhĩ",
+      "Trứng gà",
+      "Giá đỗ"
+    ],
+    "taste_profile": "Vỏ giòn rụm, nhân thập cẩm béo ngậy ngọt tự nhiên, đậm đà",
+    "ai_search_tags": "mâm cỗ, gia đình, cuối tuần, giòn rụm, truyền thống, quốc dân",
+    "detailed_description": "Món ăn linh hồn không bao giờ vắng mặt trong các mâm cỗ Tết. Sự cầu kỳ nằm ở việc pha trộn hàng chục nguyên liệu làm nhân rồi cuốn chặt tay, chiên trong chảo ngập dầu để lớp vỏ bánh đa giòn tan, màu cánh gián bắt mắt."
+  },
+  {
+    "dish_id": "MC10",
+    "name": "Cháo sườn sụn",
+    "category": "MAIN_COURSE",
+    "price_range": "25000 - 40000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bột gạo xay nhuyễn",
+      "Sườn sụn lợn",
+      "Quẩy giòn",
+      "Ruốc thịt lợn",
+      "Hạt tiêu",
+      "Bột ớt"
+    ],
+    "taste_profile": "Cháo sánh mịn như kem, sụn sần sật, ruốc mằn mặn, cay nhẹ",
+    "ai_search_tags": "xế chiều, ăn sáng, ấm dạ, mịn màng, trẻ em, mùa đông",
+    "detailed_description": "Khác với cháo hạt thông thường, cháo sườn Hà Nội được nấu từ bột gạo tẻ xay nhuyễn, đặc sánh và trơn tuột như kem. Xúc một thìa cháo lẫn miếng sườn sụn ninh nhừ sần sật, rắc thêm quẩy giòn và ruốc mặn thì ấm sực cả người."
+  },
+  {
+    "dish_id": "MC11",
+    "name": "Bún bò Nam Bộ",
+    "category": "MAIN_COURSE",
+    "price_range": "45000 - 70000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bún rối",
+      "Thịt bò thăn",
+      "Giá đỗ luộc",
+      "Lạc rang giã dập",
+      "Hành phi",
+      "Nước mắm chua ngọt"
+    ],
+    "taste_profile": "Chua chua ngọt ngọt mát mẻ, thịt bò mềm đậm đà, lạc rang bùi béo",
+    "ai_search_tags": "ăn trưa, thanh mát, mùa hè, đầy đặn, không ngấy, dễ ăn",
+    "detailed_description": "Dù mang tên Nam Bộ nhưng món bún trộn này lại rất phổ biến trên đường phố thủ đô. Bát bún là một bản hòa tấu màu sắc và hương vị: bún mát lạnh, bò xào nóng hổi, giá đỗ thanh giòn, tắm trong nước mắm chua ngọt dìu dịu."
+  },
+  {
+    "dish_id": "MC12",
+    "name": "Xôi thịt kho trứng",
+    "category": "MAIN_COURSE",
+    "price_range": "30000 - 50000",
+    "place": "streetfood",
+    "ingredients": [
+      "Gạo nếp trắng",
+      "Thịt ba chỉ",
+      "Trứng cút hoặc trứng gà",
+      "Nước cốt dừa",
+      "Pate gan",
+      "Lạp xưởng"
+    ],
+    "taste_profile": "Dẻo quánh, thịt kho nhừ tươm mỡ béo ngậy, pate đượm đà",
+    "ai_search_tags": "ăn sáng, no lâu, đậm đà, béo ngậy, mùa đông, đầy đặn",
+    "detailed_description": "Lựa chọn chắc dạ cho những ngày làm việc dài. Bát xôi trắng khói bốc nghi ngút được rưới đẫm nước thịt kho tàu sánh đậm, ăn kèm miếng ba chỉ kho rục mỡ rớt ra cùng một miếng pate gan bùi béo."
+  },
+  {
+    "dish_id": "MC13",
+    "name": "Bò nướng chảo gang",
+    "category": "MAIN_COURSE",
+    "price_range": "150000 - 250000",
+    "place": "streetfood",
+    "ingredients": [
+      "Thịt bò tẩm ướp",
+      "Bơ thực vật",
+      "Nấm kim châm",
+      "Bánh mì",
+      "Hành tây",
+      "Khoai lang"
+    ],
+    "taste_profile": "Xèo xèo vui tai, thơm nức mùi bơ, thịt bò đậm đà nóng hổi",
+    "ai_search_tags": "tụ tập, nhậu nhẹt, xèo xèo, béo ngậy, cuối tuần, vỉa hè",
+    "detailed_description": "Món nướng bình dân quen thuộc trên các vỉa hè phố cổ. Các nguyên liệu được nướng chín trực tiếp trên một chiếc chảo gang lót giấy bạc bọc bơ thực vật đang reo xèo xèo, tỏa ra thứ mùi thơm nức mũi kích thích cực độ."
+  },
+  {
+    "dish_id": "MC14",
+    "name": "Lẩu ếch măng cay",
+    "category": "MAIN_COURSE",
+    "price_range": "250000 - 400000",
+    "place": "restaurant",
+    "ingredients": [
+      "Thịt ếch đồng",
+      "Măng củ tươi",
+      "Lá lốt",
+      "Váng đậu chiên",
+      "Sa tế",
+      "Bún rối"
+    ],
+    "taste_profile": "Cay nồng sa tế, măng giòn sật chua dịu, thịt ếch dai ngọt",
+    "ai_search_tags": "tụ tập, ăn tối, cay nồng, lai rai, cuối tuần, ấm áp",
+    "detailed_description": "Nồi lẩu sôi sùng sục, màu đỏ au của sa tế cực kỳ kích thích thị giác. Những khúc đùi ếch đồng săn chắc, xào săn trước với măng củ chua giòn, thả vào nồi lẩu ngấm gia vị tạo thành một món nhậu hoàn hảo cho những dịp tụ tập."
+  },
+  {
+    "dish_id": "MC15",
+    "name": "Ngan cháy tỏi",
+    "category": "MAIN_COURSE",
+    "price_range": "150000 - 250000",
+    "place": "restaurant",
+    "ingredients": [
+      "Thịt ngan",
+      "Tỏi nguyên tép chiên giòn",
+      "Gừng tươi",
+      "Xì dầu",
+      "Rượu trắng",
+      "Đường kính"
+    ],
+    "taste_profile": "Thịt ngan ngọt mềm tẩm ướp đậm, tỏi chiên bùi béo giòn rụm",
+    "ai_search_tags": "nhậu nhẹt, đậm đà, thơm lừng, ăn tối, lai rai, cuối tuần",
+    "detailed_description": "Món ăn dù mới xuất hiện nhưng đã gây bão bản đồ ẩm thực. Những miếng thịt ngan tẩm ướp đượm vị được chiên vàng xém cạnh, rắc ngập lên trên là hàng chục tép tỏi ta nguyên củ chiên giòn rụm, thơm nức mũi mà không hề đắng."
+  },
+  {
+    "dish_id": "ST21",
+    "name": "Bánh mì",
+    "category": "STREET_FOOD",
+    "price_range": "20000 - 45000",
+    "place": "streetfood",
+    "ingredients": [
+      "Bánh mì giòn",
+      "Pate",
+      "Thịt nguội (xá xíu, giò lụa)",
+      "Dưa chuột",
+      "Rau mùi",
+      "Đồ chua (củ cải, cà rốt muối)",
+      "Trứng",
+      "Sốt bơ trứng"
+    ],
+    "taste_profile": "Vỏ giòn tan, pate béo ngậy, thịt đậm đà, đồ chua thanh mát ngọt nhẹ",
+    "ai_search_tags": "ăn sáng, ăn nhanh, đường phố, giá rẻ, tiện lợi, biểu tượng, giòn",
+    "detailed_description": "Bánh mì là món ăn đường phố nổi tiếng toàn cầu của Việt Nam. Chiếc bánh mì nóng giòn được quết một lớp pate thơm phức, bơ trứng béo ngậy, sau đó nhồi đầy ắp các loại thịt, chả, dưa leo, rau mùi và đồ chua giúp cân bằng vị giác."
+  }
+]

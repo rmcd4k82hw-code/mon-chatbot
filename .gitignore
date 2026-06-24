@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+.streamlit/config.toml
+.streamlit/secrets.toml
+.agents/
+.idea/
+.vscode/
+*.log
