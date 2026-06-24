@@ -7,7 +7,8 @@ from db import (
     DISH_EN_BY_ID, DISH_VI_BY_ID,
     DISH_ID_TO_RESTAURANTS, MENU_TO_RESTAURANTS,
     build_gemini_system_prompt,
-    haversine_distance
+    haversine_distance,
+    get_dish_photo
 )
 
 # ============================================================
@@ -360,6 +361,19 @@ def get_gemini_response(user_message, chat_history, language, model_name):
 
 
 
+def extract_mentioned_dishes(text, dishes_vi):
+    """Scan the text for any mentions of Vietnamese dish names and return the matching dish objects."""
+    mentioned = []
+    text_lower = text.lower()
+    for d in dishes_vi:
+        # Get the main name without parenthesis (e.g. "Bún chả" from "Bún chả (Grilled Pork)")
+        name_vi = d["name"].lower()
+        name_clean = name_vi.split("(")[0].strip()
+        if name_clean in text_lower:
+            mentioned.append(d)
+    return mentioned
+
+
 # ============================================================
 # MAIN LAYOUT
 # ============================================================
@@ -440,6 +454,25 @@ with tab_chat:
         for msg in st.session_state.messages:
             with st.chat_message(msg["role"]):
                 st.markdown(msg["content"])
+                if msg["role"] == "assistant":
+                    mentioned = extract_mentioned_dishes(msg["content"], DISHES_VI)
+                    if mentioned:
+                        unique_mentioned = []
+                        seen_ids = set()
+                        for d in mentioned:
+                            if d["dish_id"] not in seen_ids:
+                                photo_file = get_dish_photo(d["name"])
+                                if photo_file:
+                                    unique_mentioned.append((d, photo_file))
+                                    seen_ids.add(d["dish_id"])
+                        if unique_mentioned:
+                            expander_title = "📷 Photos des plats" if lang == "fr" else "📷 Photos of dishes" if lang == "en" else "📷 Ảnh các món ăn"
+                            with st.expander(expander_title):
+                                cols = st.columns(min(len(unique_mentioned), 4))
+                                for idx, (d, photo_file) in enumerate(unique_mentioned):
+                                    col = cols[idx % len(cols)]
+                                    with col:
+                                        st.image(f"photo/{photo_file}", caption=d["name"], use_container_width=True)
 
     # Chat input
     if user_input := st.chat_input(L["chat_placeholder"]):
@@ -473,6 +506,26 @@ with tab_chat:
                             selected_model
                         )
                     st.markdown(response_text)
+                    
+                    # Display photos of mentioned dishes
+                    mentioned = extract_mentioned_dishes(response_text, DISHES_VI)
+                    if mentioned:
+                        unique_mentioned = []
+                        seen_ids = set()
+                        for d in mentioned:
+                            if d["dish_id"] not in seen_ids:
+                                photo_file = get_dish_photo(d["name"])
+                                if photo_file:
+                                    unique_mentioned.append((d, photo_file))
+                                    seen_ids.add(d["dish_id"])
+                        if unique_mentioned:
+                            expander_title = "📷 Photos des plats" if lang == "fr" else "📷 Photos of dishes" if lang == "en" else "📷 Ảnh các món ăn"
+                            with st.expander(expander_title):
+                                cols = st.columns(min(len(unique_mentioned), 4))
+                                for idx, (d, photo_file) in enumerate(unique_mentioned):
+                                    col = cols[idx % len(cols)]
+                                    with col:
+                                        st.image(f"photo/{photo_file}", caption=d["name"], use_container_width=True)
             st.session_state.messages.append({"role": "assistant", "content": response_text})
 
 # ============================================================
@@ -500,25 +553,54 @@ with tab_dishes:
             en_name = DISH_EN_BY_ID.get(dish_id, {}).get("name", "")
 
             with st.expander(f"**{dish['name']}** — {en_name if lang != 'en' else DISH_VI_BY_ID.get(dish_id, {}).get('name', '')}"):
-                # Description
-                st.markdown(dish.get("detailed_description", ""))
-
-                # Info columns
-                col1, col2 = st.columns(2)
-                with col1:
-                    ingredients = dish.get("ingredients", [])
-                    if ingredients:
-                        st.markdown(f"**{L['ingredients_label']}:** {', '.join(ingredients)}")
-                    taste = dish.get("taste_profile", "")
-                    if taste:
-                        st.markdown(f"**{L['taste_label']}:** {taste}")
-                with col2:
-                    price = dish.get("price_range", "")
-                    if price:
-                        st.markdown(f"**{L['price_label']}:** {price} VND")
-                    tags = dish.get("ai_search_tags", "")
-                    if tags:
-                        st.markdown(f"**{L['tags_label']}:** {tags}")
+                # Check for photo
+                dish_vi_name = DISH_VI_BY_ID.get(dish_id, {}).get("name", "")
+                photo_file = get_dish_photo(dish_vi_name)
+                
+                if photo_file:
+                    col_info, col_img = st.columns([2, 1])
+                    with col_info:
+                        # Description
+                        st.markdown(dish.get("detailed_description", ""))
+                        
+                        # Info columns
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            ingredients = dish.get("ingredients", [])
+                            if ingredients:
+                                st.markdown(f"**{L['ingredients_label']}:** {', '.join(ingredients)}")
+                            taste = dish.get("taste_profile", "")
+                            if taste:
+                                st.markdown(f"**{L['taste_label']}:** {taste}")
+                        with col2:
+                            price = dish.get("price_range", "")
+                            if price:
+                                st.markdown(f"**{L['price_label']}:** {price} VND")
+                            tags = dish.get("ai_search_tags", "")
+                            if tags:
+                                st.markdown(f"**{L['tags_label']}:** {tags}")
+                    with col_img:
+                        st.image(f"photo/{photo_file}", use_container_width=True)
+                else:
+                    # Description
+                    st.markdown(dish.get("detailed_description", ""))
+                    
+                    # Info columns
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        ingredients = dish.get("ingredients", [])
+                        if ingredients:
+                            st.markdown(f"**{L['ingredients_label']}:** {', '.join(ingredients)}")
+                        taste = dish.get("taste_profile", "")
+                        if taste:
+                            st.markdown(f"**{L['taste_label']}:** {taste}")
+                    with col2:
+                        price = dish.get("price_range", "")
+                        if price:
+                            st.markdown(f"**{L['price_label']}:** {price} VND")
+                        tags = dish.get("ai_search_tags", "")
+                        if tags:
+                            st.markdown(f"**{L['tags_label']}:** {tags}")
 
                 # Show which restaurants serve this dish
                 serving_rests = DISH_ID_TO_RESTAURANTS.get(dish_id, [])

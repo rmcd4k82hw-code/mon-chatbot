@@ -186,3 +186,41 @@ Groupe clairement tes recommandations sous ces deux en-têtes séparés et ne le
             prompt += f"📍 {name} — {addr} (Note: {rating}/5) [Itinéraire Google Maps]({maps_url}) | Menu: {menu}\n"
 
     return prompt
+
+
+# ============================================================
+# Photo Mapping Support
+# ============================================================
+import unicodedata
+
+_PHOTO_DIR = os.path.join(_BASE_DIR, "photo")
+_PHOTOS = os.listdir(_PHOTO_DIR) if os.path.exists(_PHOTO_DIR) else []
+
+def _strip_accents(text):
+    return ''.join(c for c in unicodedata.normalize('NFD', text) if unicodedata.category(c) != 'Mn')
+
+def _normalize_name(text):
+    text_clean = _strip_accents(text).lower()
+    return "".join(c for c in text_clean if c.isalnum())
+
+_PHOTO_MAP = {_normalize_name(os.path.splitext(p)[0]): p for p in _PHOTOS}
+
+_PHOTO_OVERRIDES = {
+    "nganchaytoi": "Ngan cháy tỏ.jfif",
+    "banhmi": "Bahn Mi.jfif"
+}
+
+def get_dish_photo(dish_name_vi):
+    """
+    Get the filename of the photo matching the dish name, or None.
+    Normalized by removing accents, spaces, and punctuation.
+    """
+    if not dish_name_vi:
+        return None
+    name_clean = dish_name_vi.split("(")[0].strip()
+    name_norm = _normalize_name(name_clean)
+    
+    if name_norm in _PHOTO_OVERRIDES:
+        return _PHOTO_OVERRIDES[name_norm]
+    
+    return _PHOTO_MAP.get(name_norm)
